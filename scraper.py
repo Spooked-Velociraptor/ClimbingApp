@@ -15,9 +15,6 @@ book_page = requests.get('https://www.ukclimbing.com/logbook/books/#c1', headers
 soup = BeautifulSoup(book_page.content, "html.parser")
 table = soup.findAll('ul')
 
-books = list(filter(None, table[0].text.split('\n')))
-books = list(filter(None, [value.replace("\xa0", "") for value in books[1:]]))
-
 logbooks = []
 for book in table:
     li = book.next
@@ -28,8 +25,4 @@ for book in table:
             if logbook_url:
                 logbooks.append(logbook_url)
 
-for item in books:
-    key, value = item.split('.', maxsplit=1)
-    d[key] = value
-
-#print(x.text)
+print(logbooks)
