@@ -9,17 +9,26 @@ headers = {
     (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'
 }
 
-books = requests.get('https://www.ukclimbing.com/logbook/books/#c1', headers)
+book_page = requests.get('https://www.ukclimbing.com/logbook/books/#c1', headers)
 
 
-soup = BeautifulSoup(books.content, "html.parser")
+soup = BeautifulSoup(book_page.content, "html.parser")
 table = soup.findAll('ul')
 
-values = list(filter(None, table[0].text.split('\n')))
-values = list(filter(None, [value.replace("\xa0", "") for value in values[1:]]))
+books = list(filter(None, table[0].text.split('\n')))
+books = list(filter(None, [value.replace("\xa0", "") for value in books[1:]]))
 
-d = {}
-for item in values:
+logbooks = []
+for book in table:
+    li = book.next
+    if li.name == "li":
+        a = li.next
+        if a.name == "a":
+            logbook_url = a.attrs.get("href", None)
+            if logbook_url:
+                logbooks.append(logbook_url)
+
+for item in books:
     key, value = item.split('.', maxsplit=1)
     d[key] = value
 
