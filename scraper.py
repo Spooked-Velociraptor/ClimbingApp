@@ -13,16 +13,11 @@ book_page = requests.get('https://www.ukclimbing.com/logbook/books/#c1', headers
 
 
 soup = BeautifulSoup(book_page.content, "html.parser")
-table = soup.findAll('ul')
 
-logbooks = []
-for book in table:
-    li = book.next
-    if li.name == "li":
-        a = li.next
-        if a.name == "a":
-            logbook_url = a.attrs.get("href", None)
-            if logbook_url:
-                logbooks.append(logbook_url)
+book_html = soup.find(id = 'c1')
 
-print(logbooks)
+tag_types = ["p", "ul", "li", "a"]
+
+for tag_type in tag_types:
+    for tag in book_html.find_all(tag_type):
+        print(tag.attrs.get('href'))
