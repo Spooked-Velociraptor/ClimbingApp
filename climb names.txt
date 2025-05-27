@@ -1,0 +1,1632 @@
+/logbook/crags/the_exmoor_coast_traverse-1242|Grexy Combe|Grade-1|/grexy_combe-499429
+/logbook/crags/the_exmoor_coast_traverse-1242|Henner's Hill|Grade-2|/henners_hill-499427
+/logbook/crags/the_exmoor_coast_traverse-1242|Henner's Hill West|Grade-2|/henners_hill_west-499428
+/logbook/crags/the_exmoor_coast_traverse-1242|Culbone Combe Landslip|I|/culbone_combe_landslip-444698
+/logbook/crags/the_exmoor_coast_traverse-1242|Whitebeam Gully|VS|/whitebeam_gully-472946
+/logbook/crags/the_exmoor_coast_traverse-1242|Granny Knot|HVS|/granny_knot-499430
+/logbook/crags/the_exmoor_coast_traverse-1242|Cracked Cannon Corner|Unknown|/cracked_cannon_corner-499431
+/logbook/crags/the_exmoor_coast_traverse-1242|Coddow Slip|Grade-2|/coddow_slip-499426
+/logbook/crags/the_exmoor_coast_traverse-1242|Great Red Gully|Grade-2|/great_red_gully-348079
+/logbook/crags/the_exmoor_coast_traverse-1242|The Way Back|HVS|/the_way_back-499413
+/logbook/crags/the_exmoor_coast_traverse-1242|Sanctuary|HS|/sanctuary-499414
+/logbook/crags/the_exmoor_coast_traverse-1242|Traverse of Great Bastion|VD|/traverse_of_great_bastion-499198
+/logbook/crags/the_exmoor_coast_traverse-1242|Archer|E6|/archer-499406
+/logbook/crags/the_exmoor_coast_traverse-1242|The Claw|D|/the_claw-430280
+/logbook/crags/the_exmoor_coast_traverse-1242|Black Wall Direct|VS|/black_wall_direct-499408
+/logbook/crags/the_exmoor_coast_traverse-1242|Pharoah's Chimney|HVS|/pharoahs_chimney-499411
+/logbook/crags/the_exmoor_coast_traverse-1242|Kittiwake Slab|S|/kittiwake_slab-499412
+/logbook/crags/the_exmoor_coast_traverse-1242|The Flying Buttress|VD|/the_flying_buttress-499415
+/logbook/crags/the_exmoor_coast_traverse-1242|Kampala|HVS|/kampala-499416
+/logbook/crags/the_exmoor_coast_traverse-1242|Curate's Corner|HVS|/curates_corner-499417
+/logbook/crags/the_exmoor_coast_traverse-1242|Tuesday Route|Grade-2|/tuesday_route-499425
+/logbook/crags/the_exmoor_coast_traverse-1242|Coxcomb West|Unknown|/coxcomb_west-499424
+/logbook/crags/the_exmoor_coast_traverse-1242|Bosley Gut|Grade-1|/bosley_gut-255093
+/logbook/crags/the_exmoor_coast_traverse-1242|Razorbill Route|Unknown|/razorbill_route-499418
+/logbook/crags/the_exmoor_coast_traverse-1242|North Cleave Gut.|Grade-2|/north_cleave_gut-437099
+/logbook/crags/the_exmoor_coast_traverse-1242|The D Tract|E2|/the_d_tract-499419
+/logbook/crags/the_exmoor_coast_traverse-1242|Neck Wood Gut|Grade-3|/neck_wood_gut-348058
+/logbook/crags/the_exmoor_coast_traverse-1242|Hidden Gully|Grade-2|/hidden_gully-499423
+/logbook/crags/the_exmoor_coast_traverse-1242|Notch Gully|VS|/notch_gully-499422
+/logbook/crags/the_exmoor_coast_traverse-1242|Great Hangman Gut|Grade-3|/great_hangman_gut-499421
+/logbook/crags/the_exmoor_coast_traverse-1242|Little Hangman Gut|Grade-3|/little_hangman_gut-499420
+/logbook/crags/the_exmoor_coast_traverse-1242|Exmoor Coast Traverse (full version)|VS|/exmoor_coast_traverse_full_version-436915
+/logbook/crags/the_exmoor_coast_traverse-1242|Exmoor Coast Traverse (Guidebook Version)|VS|/exmoor_coast_traverse_guidebook_version-470402
+/logbook/crags/the_exmoor_coast_traverse-1242|Hidden Edge of Exmoor|VS|/hidden_edge_of_exmoor-470403
+/logbook/crags/the_exmoor_coast_traverse-1242|Archer's Traverse|VS|/archers_traverse-470404
+/logbook/crags/the_exmoor_coast_traverse-1242|Goi's Project|Project|/gois_project-499233
+/logbook/crags/the_exmoor_coast_traverse-1242|Combe Martin to Little Hangman Gut|VD|/combe_martin_to_little_hangman_gut-653805
+/logbook/crags/the_exmoor_coast_traverse-1242|Valley of Rocks traverse|HS|/valley_of_rocks_traverse-653807
+/logbook/crags/the_exmoor_coast_traverse-1242|Duty Point traverse|VD|/duty_point_traverse-653808
+/logbook/crags/the_exmoor_coast_traverse-1242|Crock Point traverse|HS|/crock_point_traverse-653809
+/logbook/crags/the_exmoor_coast_traverse-1242|Heddon's mouth to Great Hangman Gut|S|/heddons_mouth_to_great_hangman_gut-653806
+/logbook/crags/the_exmoor_coast_traverse-1242|The Inner Sanctuary|Unknown|/slug
+/logbook/crags/the_exmoor_coast_traverse-1242|Traverse of Yes Tor|HS|/traverse_of_yes_tor-705159
+/logbook/crags/vallis_vale-1988|Styx|S|/styx-198952
+/logbook/crags/vallis_vale-1988|Hungover|HVS|/hungover-319240
+/logbook/crags/vallis_vale-1988|Choked Groove|VS|/choked_groove-362182
+/logbook/crags/vallis_vale-1988|Tantalus|S|/tantalus-172804
+/logbook/crags/vallis_vale-1988|Thetis (direct)|VD|/thetis_direct-319241
+/logbook/crags/vallis_vale-1988|Thetis|D|/thetis-198953
+/logbook/crags/vallis_vale-1988|Cerebus|S|/cerebus-172803
+/logbook/crags/vallis_vale-1988|Tiptoe (aka The shield of Achilles)|Unknown|/tiptoe_aka_the_shield_of_achilles-32697
+/logbook/crags/vallis_vale-1988|Telemachus|S|/telemachus-198954
+/logbook/crags/vallis_vale-1988|Wasted metal (aka Prometheus)|VS|/wasted_metal_aka_prometheus-198955
+/logbook/crags/vallis_vale-1988|Vallis crack|VS|/vallis_crack-32698
+/logbook/crags/vallis_vale-1988|Free Stonehenge|Unknown|/free_stonehenge-235330
+/logbook/crags/vallis_vale-1988|The Blue Druid|D|/the_blue_druid-235691
+/logbook/crags/vallis_vale-1988|No Name|D|/no_name-172805
+/logbook/crags/vallis_vale-1988|Scylla|D|/scylla-104595
+/logbook/crags/vallis_vale-1988|Charybdis|D|/charybdis-250432
+/logbook/crags/vallis_vale-1988|Centaur|S|/centaur-104025
+/logbook/crags/vallis_vale-1988|Siren slab|Unknown|/siren_slab-250434
+/logbook/crags/vallis_vale-1988|Odyssey|S|/odyssey-250435
+/logbook/crags/vallis_vale-1988|A Little Ropey|E6|/a_little_ropey-356197
+/logbook/crags/vallis_vale-1988|Ghost riders|Unknown|/ghost_riders-250440
+/logbook/crags/vallis_vale-1988|Don't Declaw The Gerbil|HS|/dont_declaw_the_gerbil-46938
+/logbook/crags/vallis_vale-1988|Tree Hugger|Unknown|/tree_hugger-292628
+/logbook/crags/vallis_vale-1988|Kebabs with Baba|Unknown|/kebabs_with_baba-638126
+/logbook/crags/vallis_vale-1988|Right Hand Man|Unknown|/right_hand_man-355451
+/logbook/crags/vallis_vale-1988|The Party Leg|Unknown|/the_party_leg-581920
+/logbook/crags/vallis_vale-1988|The Coast Path|Unknown|/the_coast_path-652726
+/logbook/crags/vallis_vale-1988|Bonner's Crack |E2|/bonners_crack-637330
+/logbook/crags/vallis_vale-1988|The Gong Show|E6|/the_gong_show-637331
+/logbook/crags/vallis_vale-1988|The Russian Sleep Deprivation Experiment|HVS|/the_russian_sleep_deprivation_experiment-356185
+/logbook/crags/vallis_vale-1988|Unjustifiable|HS|/unjustifiable-356186
+/logbook/crags/vallis_vale-1988|Flying Pockets|Unknown|/flying_pockets-362002
+/logbook/crags/vallis_vale-1988|Deafening Squeak|Unknown|/deafening_squeak-362070
+/logbook/crags/vallis_vale-1988|An Accident Waiting to Happen|VD|/an_accident_waiting_to_happen-362181
+/logbook/crags/vallis_vale-1988|57 on Thursday |Unknown|/57_on_thursday-657475
+/logbook/crags/vallis_vale-1988|Cave Entrance Crack |E2|/cave_entrance_crack-652272
+/logbook/crags/vallis_vale-1988|The Mendip Mafia|Unknown|/the_mendip_mafia-657473
+/logbook/crags/vallis_vale-1988|Slava Ukraini! |Unknown|/slava_ukraini-652273
+/logbook/crags/vallis_vale-1988|Serpico|Unknown|/serpico-642786
+/logbook/crags/vallis_vale-1988|Imperium|Unknown|/imperium-642785
+/logbook/crags/vallis_vale-1988|Rose Burn|Unknown|/rose_burn-715637
+/logbook/crags/vallis_vale-1988|The Latin Veil|Unknown|/the_latin_veil-642416
+/logbook/crags/vallis_vale-1988|The Holy Grail|Unknown|/the_holy_grail-715636
+/logbook/crags/vallis_vale-1988|The Devil Makes Work For Idle Hands|Unknown|/the_devil_makes_work_for_idle_hands-715638
+/logbook/crags/high_houselop_quarry-16374|Barbed Wire Traverse|Unknown|/barbed_wire_traverse-574213
+/logbook/crags/high_houselop_quarry-16374|Intro Arete|Unknown|/intro_arete-574214
+/logbook/crags/high_houselop_quarry-16374|Layback Groove|Unknown|/layback_groove-574215
+/logbook/crags/high_houselop_quarry-16374|Layback Wall|Unknown|/layback_wall-574216
+/logbook/crags/high_houselop_quarry-16374|Route 1|Unknown|/route_1-233966
+/logbook/crags/high_houselop_quarry-16374|Inbetweeners|Unknown|/inbetweeners-574217
+/logbook/crags/high_houselop_quarry-16374|Route 2 Seriously|Unknown|/route_2_seriously-233967
+/logbook/crags/high_houselop_quarry-16374|Arete and Slab|Unknown|/arete_and_slab-574218
+/logbook/crags/high_houselop_quarry-16374|HHQT|Unknown|/hhqt-661989
+/logbook/crags/high_houselop_quarry-16374|Shot Hole|Unknown|/shot_hole-574219
+/logbook/crags/high_houselop_quarry-16374|Two Horizontal Grips|Unknown|/two_horizontal_grips-574220
+/logbook/crags/high_houselop_quarry-16374|Cave Undercut|Unknown|/cave_undercut-574222
+/logbook/crags/high_houselop_quarry-16374|Cave 1 High Traverse |Unknown|/cave_1_high_traverse-574223
+/logbook/crags/high_houselop_quarry-16374|Cave 1 Middle Traverse|Unknown|/cave_1_middle_traverse-574224
+/logbook/crags/high_houselop_quarry-16374|Cave 1 Low Traverse|Unknown|/cave_1_low_traverse-574225
+/logbook/crags/high_houselop_quarry-16374|2007|Unknown|/2007-574226
+/logbook/crags/high_houselop_quarry-16374|Major Wardrobe|Unknown|/major_wardrobe-466386
+/logbook/crags/high_houselop_quarry-16374|Major Wardrobe SS|Unknown|/major_wardrobe_ss-574227
+/logbook/crags/high_houselop_quarry-16374|Captain Cabinets Trapped in Cabinets|Unknown|/captain_cabinets_trapped_in_cabinets-233968
+/logbook/crags/high_houselop_quarry-16374|Captain Cabinets SS|Unknown|/captain_cabinets_ss-574228
+/logbook/crags/high_houselop_quarry-16374|Cave Traverse Low|Unknown|/cave_traverse_low-510601
+/logbook/crags/high_houselop_quarry-16374|Cave Traverse Middle|Unknown|/cave_traverse_middle-510600
+/logbook/crags/high_houselop_quarry-16374|Cave Traverse High|Unknown|/cave_traverse_high-510599
+/logbook/crags/high_houselop_quarry-16374|Rabbit Stew|Unknown|/rabbit_stew-575304
+/logbook/crags/high_houselop_quarry-16374|Do or Die SS|Unknown|/do_or_die_ss-575323
+/logbook/crags/high_houselop_quarry-16374|Do or Die|Unknown|/do_or_die-574229
+/logbook/crags/high_houselop_quarry-16374|Three Tier Traverse|Unknown|/three_tier_traverse-629816
+/logbook/crags/high_houselop_quarry-16374|Admiral Armoire|Unknown|/admiral_armoire-629817
+/logbook/crags/high_houselop_quarry-16374|2006|Unknown|/2006-737220
+/logbook/crags/high_houselop_quarry-16374|Neon Fu|S|/neon_fu-233969
+/logbook/crags/high_houselop_quarry-16374|Wee Slab|Unknown|/wee_slab-635980
+/logbook/crags/high_houselop_quarry-16374|The 13 steps|S|/the_13_steps-233964
+/logbook/crags/high_houselop_quarry-16374|The red traverse|Unknown|/the_red_traverse-233965
+/logbook/crags/high_houselop_quarry-16374|Goldern Gate|Unknown|/goldern_gate-574310
+/logbook/crags/high_houselop_quarry-16374|The Bay Area|Unknown|/the_bay_area-574311
+/logbook/crags/high_houselop_quarry-16374|Bad Boys|Unknown|/bad_boys-574312
+/logbook/crags/high_houselop_quarry-16374|No Way Back|Unknown|/no_way_back-574313
+/logbook/crags/high_houselop_quarry-16374|Bay Bridge|Unknown|/bay_bridge-574314
+/logbook/crags/high_houselop_quarry-16374|Alcatraz|Unknown|/alcatraz-574315
+/logbook/crags/high_houselop_quarry-16374|Not Proud|Unknown|/not_proud-574316
+/logbook/crags/high_houselop_quarry-16374|Crypto Nonce|HVS|/crypto_nonce-703849
+/logbook/crags/high_houselop_quarry-16374|Choss vortex|VS|/choss_vortex-737221
+/logbook/crags/high_houselop_quarry-16374|Christmas Party|Unknown|/christmas_party-510602
+/logbook/crags/high_houselop_quarry-16374|Injection|Unknown|/injection-684295
+/logbook/crags/high_houselop_quarry-16374|Soft Play|Unknown|/soft_play-574317
+/logbook/crags/high_houselop_quarry-16374|Extraction|Unknown|/extraction-582318
+/logbook/crags/high_houselop_quarry-16374|Hard Work|Unknown|/hard_work-233946
+/logbook/crags/high_houselop_quarry-16374|Central Path Corner|VD|/central_path_corner-233948
+/logbook/crags/high_houselop_quarry-16374|Central Path Arete|Unknown|/central_path_arete-574230
+/logbook/crags/high_houselop_quarry-16374|Two Dead Rabbits in Conversation |Unknown|/two_dead_rabbits_in_conversation-574231
+/logbook/crags/high_houselop_quarry-16374|Panda Bear|Unknown|/panda_bear-574232
+/logbook/crags/high_houselop_quarry-16374|Horses Can't Swim|VS|/horses_cant_swim-233949
+/logbook/crags/high_houselop_quarry-16374|Penile Power|VS|/penile_power-233957
+/logbook/crags/high_houselop_quarry-16374|Diced|Unknown|/diced-574233
+/logbook/crags/high_houselop_quarry-16374|Stern Groove|Unknown|/stern_groove-574234
+/logbook/crags/high_houselop_quarry-16374|Stern Arete|Unknown|/stern_arete-233958
+/logbook/crags/high_houselop_quarry-16374|Sterner Still|Unknown|/sterner_still-574235
+/logbook/crags/high_houselop_quarry-16374|Alright Stop|Unknown|/alright_stop-233959
+/logbook/crags/high_houselop_quarry-16374|Collaborate and Listen|Unknown|/collaborate_and_listen-233960
+/logbook/crags/high_houselop_quarry-16374|Traverse Pastrana|Unknown|/traverse_pastrana-233961
+/logbook/crags/high_houselop_quarry-16374|Rainbow Traverse|Unknown|/rainbow_traverse-204346
+/logbook/crags/high_houselop_quarry-16374|The Saw Tooth Arete|Unknown|/the_saw_tooth_arete-599906
+/logbook/crags/high_houselop_quarry-16374|The Groove|S|/the_groove-186215
+/logbook/crags/high_houselop_quarry-16374|Emohawk|E2|/emohawk-233950
+/logbook/crags/high_houselop_quarry-16374|Right Wall |Unknown|/right_wall-578668
+/logbook/crags/high_houselop_quarry-16374|Second Groove|VS|/second_groove-186216
+/logbook/crags/high_houselop_quarry-16374|Disappearing Crack|VS|/disappearing_crack-186217
+/logbook/crags/high_houselop_quarry-16374|The Donkey Shagger|S|/the_donkey_shagger-202796
+/logbook/crags/high_houselop_quarry-16374|Central Arete|S|/central_arete-202795
+/logbook/crags/high_houselop_quarry-16374|Central Arete Right|Unknown|/central_arete_right-578669
+/logbook/crags/high_houselop_quarry-16374|Middle Prow|Unknown|/middle_prow-574298
+/logbook/crags/high_houselop_quarry-16374|Central Groove and Crack|S|/central_groove_and_crack-186218
+/logbook/crags/high_houselop_quarry-16374|Crossed Sheep|Unknown|/crossed_sheep-578671
+/logbook/crags/high_houselop_quarry-16374|Crying Lamb|Unknown|/crying_lamb-574236
+/logbook/crags/high_houselop_quarry-16374|The Sheepshagger|Unknown|/the_sheepshagger-202791
+/logbook/crags/high_houselop_quarry-16374|The Sheepshagger SS|Unknown|/the_sheepshagger_ss-574237
+/logbook/crags/high_houselop_quarry-16374|Take a Hand Sir|Unknown|/take_a_hand_sir-574238
+/logbook/crags/high_houselop_quarry-16374|Water Rush|Unknown|/water_rush-233953
+/logbook/crags/high_houselop_quarry-16374|Stu's Arete|S|/stus_arete-202794
+/logbook/crags/high_houselop_quarry-16374|Bird in a Cage|Unknown|/bird_in_a_cage-574221
+/logbook/crags/high_houselop_quarry-16374|Rabbit Wall|Unknown|/rabbit_wall-574299
+/logbook/crags/high_houselop_quarry-16374|Rabbit Paw|Unknown|/rabbit_paw-574300
+/logbook/crags/high_houselop_quarry-16374|Rabbit in Tears|Unknown|/rabbit_in_tears-574301
+/logbook/crags/high_houselop_quarry-16374|The Wall|Unknown|/the_wall-186219
+/logbook/crags/high_houselop_quarry-16374|A Rabbits Life|Unknown|/a_rabbits_life-574302
+/logbook/crags/high_houselop_quarry-16374|Emohawk - boulder|Unknown|/emohawk_-_boulder-648189
+/logbook/crags/high_houselop_quarry-16374|Close to the Edge |Unknown|/close_to_the_edge-574303
+/logbook/crags/high_houselop_quarry-16374|Slutbutler|VS|/slutbutler-233954
+/logbook/crags/high_houselop_quarry-16374|Heather Wall|S|/heather_wall-202793
+/logbook/crags/high_houselop_quarry-16374|Get Off the Block|Unknown|/get_off_the_block-574304
+/logbook/crags/high_houselop_quarry-16374|Corner Crack|VD|/corner_crack-233962
+/logbook/crags/high_houselop_quarry-16374|Green Wall|VS|/green_wall-233956
+/logbook/crags/high_houselop_quarry-16374|Roof Direct|Unknown|/roof_direct-574308
+/logbook/crags/high_houselop_quarry-16374|Roof In-Direct|Unknown|/roof_in-direct-574309
+/logbook/crags/high_houselop_quarry-16374|Slabbed arete|VD|/slabbed_arete-202792
+/logbook/crags/high_houselop_quarry-16374|Shorty's Strong Strong Legs|Unknown|/shortys_strong_strong_legs-762629
+/logbook/crags/high_houselop_quarry-16374|East Traverse High|Unknown|/east_traverse_high-574305
+/logbook/crags/high_houselop_quarry-16374|Emma's Traverse|S|/emmas_traverse-186220
+/logbook/crags/high_houselop_quarry-16374|Bang On 20 KHz|Unknown|/bang_on_20_khz-582622
+/logbook/crags/high_houselop_quarry-16374|The East Low Traverse|Unknown|/the_east_low_traverse-574306
+/logbook/crags/high_houselop_quarry-16374|Rich\u2019s Long Long Span|Unknown|/richs_long_long_span-574307
+/logbook/crags/high_houselop_quarry-16374|Quarry East Linkup|Unknown|/quarry_east_linkup-762815
+/logbook/crags/anston_stones_wood-953|Woody's Wall Left|Unknown|/woodys_wall_left-236280
+/logbook/crags/anston_stones_wood-953|Unnamed Woody's 7A|Unknown|/unnamed_woodys_7a-219944
+/logbook/crags/anston_stones_wood-953|Reformist|Unknown|/reformist-379972
+/logbook/crags/anston_stones_wood-953|Swampy|Unknown|/swampy-432568
+/logbook/crags/anston_stones_wood-953|Swampy High Start|Unknown|/swampy_high_start-329492
+/logbook/crags/anston_stones_wood-953|Vanilla Sky LH|Unknown|/vanilla_sky_lh-706481
+/logbook/crags/anston_stones_wood-953|Vanilla Sky|Unknown|/vanilla_sky-250992
+/logbook/crags/anston_stones_wood-953|Trench Warfare|Unknown|/trench_warfare-219888
+/logbook/crags/anston_stones_wood-953|Grape Crusher|Unknown|/grape_crusher-220082
+/logbook/crags/anston_stones_wood-953|Dangerous Action Man Wrestling|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Soul Crusher|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Soul Crusher Sit Start|Unknown|/soul_crusher_sit_start-221268
+/logbook/crags/anston_stones_wood-953|Wrestling With My Dangerous Soul|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Soul Spanker|Unknown|/soul_spanker-540815
+/logbook/crags/anston_stones_wood-953|Wrestling With My Dangerous Soul Low|Unknown|/wrestling_with_my_dangerous_soul_low-610576
+/logbook/crags/anston_stones_wood-953|Soulless|Unknown|/soulless-693474
+/logbook/crags/anston_stones_wood-953|Woody's Rock Traverse|Unknown|/woodys_rock_traverse-412081
+/logbook/crags/anston_stones_wood-953|.303|Unknown|/14]
+/logbook/crags/anston_stones_wood-953|Colt|Unknown|/colt-215738
+/logbook/crags/anston_stones_wood-953|Magnum Eliminate|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Bullet|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Revolver|Unknown|/10]
+/logbook/crags/anston_stones_wood-953|Tech Nine|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Beretta|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Beretta Extension|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Sawn Off|Unknown|/sawn_off-353435
+/logbook/crags/anston_stones_wood-953|Colt into Beretta finish|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Colt - Beretta Extension Reverse|Unknown|/colt_-_beretta_extension_reverse-718922
+/logbook/crags/anston_stones_wood-953|9mm|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Bullet - Beretta Extension Reverse|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|The Terrorist|Unknown|/10]
+/logbook/crags/anston_stones_wood-953|Glock|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Glock Extension|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|No Reservations|Unknown|/no_reservations-486995
+/logbook/crags/anston_stones_wood-953|Fine Art|Unknown|/fine_art-215747
+/logbook/crags/anston_stones_wood-953|Fine Art Direct|Unknown|/fine_art_direct-621892
+/logbook/crags/anston_stones_wood-953|Dark Art|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Beta Blocker|Unknown|/beta_blocker-215744
+/logbook/crags/anston_stones_wood-953|Black Tufa|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Reservation|Unknown|/reservation-218349
+/logbook/crags/anston_stones_wood-953|Central Line|Unknown|/central_line-453291
+/logbook/crags/anston_stones_wood-953|Light Flight|Unknown|/light_flight-453290
+/logbook/crags/anston_stones_wood-953|Black Crow|Unknown|/black_crow-522102
+/logbook/crags/anston_stones_wood-953|Black Crow Right Extension|Unknown|/black_crow_right_extension-350603
+/logbook/crags/anston_stones_wood-953|White Light|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|White Light Direct|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Fire in the Rain|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Bleau Wave|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Beta Art|Unknown|/beta_art-707379
+/logbook/crags/anston_stones_wood-953|Black Art|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Reserved Art|Unknown|/reserved_art-446368
+/logbook/crags/anston_stones_wood-953|Reservation blocker|Unknown|/reservation_blocker-419417
+/logbook/crags/anston_stones_wood-953|Fine Beta|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Fine Beta Reservation|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Dark Beta|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Dark Reservation|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Black Tufa Reservation|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|No Reservation Blocker|Unknown|/no_reservation_blocker-512304
+/logbook/crags/anston_stones_wood-953|Wave Wall Corner|Unknown|/wave_wall_corner-223669
+/logbook/crags/anston_stones_wood-953|Crimps Wall|Unknown|/crimps_wall-221955
+/logbook/crags/anston_stones_wood-953|The Tufa|Unknown|/the_tufa-221956
+/logbook/crags/anston_stones_wood-953|The Wave|Unknown|/the_wave-346721
+/logbook/crags/anston_stones_wood-953|The Wave Direct|Unknown|/the_wave_direct-225677
+/logbook/crags/anston_stones_wood-953|Wave Right Hand|Unknown|/wave_right_hand-225678
+/logbook/crags/anston_stones_wood-953|Little Big Pocket|Unknown|/little_big_pocket-226343
+/logbook/crags/anston_stones_wood-953|Blue Circles|Unknown|/blue_circles-221957
+/logbook/crags/anston_stones_wood-953|Flake Circles|Unknown|/flake_circles-662541
+/logbook/crags/anston_stones_wood-953|No Circles|Unknown|/no_circles-221958
+/logbook/crags/anston_stones_wood-953|The Shield|Unknown|/the_shield-226342
+/logbook/crags/anston_stones_wood-953|Shallow|Unknown|/shallow-221959
+/logbook/crags/anston_stones_wood-953|The End|Unknown|/the_end-221960
+/logbook/crags/anston_stones_wood-953|The End Sit Start|Unknown|/the_end_sit_start-221961
+/logbook/crags/anston_stones_wood-953|Wave Wall Traverse|Unknown|/wave_wall_traverse-392226
+/logbook/crags/anston_stones_wood-953|Impeccable Fist Bump|Unknown|/impeccable_fist_bump-607843
+/logbook/crags/anston_stones_wood-953|Ebola Buttress Left Wall|Unknown|/ebola_buttress_left_wall-223670
+/logbook/crags/anston_stones_wood-953|Ebola Buttress Centre Wall|Unknown|/ebola_buttress_centre_wall-223671
+/logbook/crags/anston_stones_wood-953|Ebola Buttress Right Wall|Unknown|/ebola_buttress_right_wall-223672
+/logbook/crags/anston_stones_wood-953|The Undercut|Unknown|/the_undercut-215748
+/logbook/crags/anston_stones_wood-953|The Vision|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Non Monster|Unknown|/non_monster-718925
+/logbook/crags/anston_stones_wood-953|Chucklevision|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Chucklevision Stand|Unknown|/chucklevision_stand-672483
+/logbook/crags/anston_stones_wood-953|Monster|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Blind Bat|Unknown|/11]
+/logbook/crags/anston_stones_wood-953|Blind Bat Stand Start|Unknown|/blind_bat_stand_start-356757
+/logbook/crags/anston_stones_wood-953|No Bat No Stand|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Last Stand|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Aquila|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|The Phoenix|Unknown|/the_phoenix-215753
+/logbook/crags/anston_stones_wood-953|Alpha|Unknown|/4]
+/logbook/crags/anston_stones_wood-953|Outbreak|Unknown|/10]
+/logbook/crags/anston_stones_wood-953|Resonate|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Ebola|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|The Overlooked|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Unnamed Ebola 6B|Unknown|/unnamed_ebola_6b-375456
+/logbook/crags/anston_stones_wood-953|The Arete|Unknown|/the_arete-236284
+/logbook/crags/anston_stones_wood-953|The Anston Punter|Unknown|/the_anston_punter-236283
+/logbook/crags/anston_stones_wood-953|Twenty Four Point Nine|Unknown|/twenty_four_point_nine-215757
+/logbook/crags/anston_stones_wood-953|Quarantine|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Monster-Quarantine Link|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Pandemic|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Fawks|Unknown|/fawks-453087
+/logbook/crags/anston_stones_wood-953|Blind Bat Shuffle|Unknown|/blind_bat_shuffle-354075
+/logbook/crags/anston_stones_wood-953|The Last Phoenix|Unknown|/the_last_phoenix-453088
+/logbook/crags/anston_stones_wood-953|Alpha Stand Start|Unknown|/alpha_stand_start-489171
+/logbook/crags/anston_stones_wood-953|Bernard\u2019s Watch|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Blind Phoenix|Unknown|/blind_phoenix-614572
+/logbook/crags/anston_stones_wood-953|Phoenix Alpha|Unknown|/phoenix_alpha-615750
+/logbook/crags/anston_stones_wood-953|Phoenix Last Stand|Unknown|/phoenix_last_stand-615751
+/logbook/crags/anston_stones_wood-953|Phoenix Monster|Unknown|/phoenix_monster-617563
+/logbook/crags/anston_stones_wood-953|The Last Blind Bat|Unknown|/the_last_blind_bat-617564
+/logbook/crags/anston_stones_wood-953|Monster Phoenix|Unknown|/monster_phoenix-632382
+/logbook/crags/anston_stones_wood-953|Ebola (Right Start)|Unknown|/ebola_right_start-550529
+/logbook/crags/anston_stones_wood-953|Chucklevision Quarantine|Unknown|/chucklevision_quarantine-735263
+/logbook/crags/anston_stones_wood-953|Out of the Darkness|Unknown|/out_of_the_darkness-225171
+/logbook/crags/anston_stones_wood-953|Into the Light|Unknown|/into_the_light-221628
+/logbook/crags/anston_stones_wood-953|Into the Light Direct|Unknown|/into_the_light_direct-221629
+/logbook/crags/anston_stones_wood-953|Shadow Dance|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Dark Night|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Warm Up Wall|Unknown|/warm_up_wall-350147
+/logbook/crags/anston_stones_wood-953|Crack|Unknown|/crack-350148
+/logbook/crags/anston_stones_wood-953|Wall|Unknown|/wall-228275
+/logbook/crags/anston_stones_wood-953|Dirty Harry|Unknown|/dirty_harry-356627
+/logbook/crags/anston_stones_wood-953|Volunteer Wardens|Unknown|/volunteer_wardens-708106
+/logbook/crags/anston_stones_wood-953|Jack the Nipper|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Lucas Skywalker|Unknown|/lucas_skywalker-547056
+/logbook/crags/anston_stones_wood-953|Freemason|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Fire Wall|Unknown|/fire_wall-350149
+/logbook/crags/anston_stones_wood-953|Seamen Stains|Unknown|/seamen_stains-547057
+/logbook/crags/anston_stones_wood-953|Everything Before|Unknown|/everything_before-444937
+/logbook/crags/anston_stones_wood-953|Screaming Dream|Unknown|/screaming_dream-221637
+/logbook/crags/anston_stones_wood-953|The Arete|Unknown|/the_arete-265228
+/logbook/crags/anston_stones_wood-953|The Tufa|Unknown|/the_tufa-269528
+/logbook/crags/anston_stones_wood-953|The Corner|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Dukes Dance|Unknown|/dukes_dance-718926
+/logbook/crags/anston_stones_wood-953|Warriors Peril|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Warriors Dance|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Red Line Sit|Unknown|/red_line_sit-718928
+/logbook/crags/anston_stones_wood-953|Red Duke|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Red Peril|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Filthy Duke|Unknown|/filthy_duke-216207
+/logbook/crags/anston_stones_wood-953|Dukes Peril|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Dark Peril|Unknown|/13]
+/logbook/crags/anston_stones_wood-953|Low Dukes Traverse|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Filthy Red|Unknown|/filthy_red-476008
+/logbook/crags/anston_stones_wood-953|Dark Lady|Unknown|/dark_lady-222324
+/logbook/crags/anston_stones_wood-953|Queen of Hearts|Unknown|/queen_of_hearts-486020
+/logbook/crags/anston_stones_wood-953|Laughing Jack|Unknown|/laughing_jack-420187
+/logbook/crags/anston_stones_wood-953|Old King Cole|Unknown|/old_king_cole-422762
+/logbook/crags/anston_stones_wood-953|Grand Old Duke of York|Unknown|/grand_old_duke_of_york-486021
+/logbook/crags/anston_stones_wood-953|10|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|John Wayne|Unknown|/john_wayne-420188
+/logbook/crags/anston_stones_wood-953|The Duke|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|The Gunfighter|Unknown|/the_gunfighter-420191
+/logbook/crags/anston_stones_wood-953|Faster Faster|Unknown|/faster_faster-420190
+/logbook/crags/anston_stones_wood-953|A Tradesman's Clip|Unknown|/a_tradesmans_clip-364255
+/logbook/crags/anston_stones_wood-953|Long Stand|Unknown|/long_stand-364256
+/logbook/crags/anston_stones_wood-953|Sparks for the Grinder|Unknown|/sparks_for_the_grinder-364257
+/logbook/crags/anston_stones_wood-953|Left-Handed Screwdriver|Unknown|/left-handed_screwdriver-364258
+/logbook/crags/anston_stones_wood-953|Apprentice Ar\u00eate|Unknown|/apprentice_arete-453289
+/logbook/crags/anston_stones_wood-953|Apprentice Prow|Unknown|/apprentice_prow-216208
+/logbook/crags/anston_stones_wood-953|Apprentice Wall|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|The Rookie|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|John's Arete|Unknown|/johns_arete-225679
+/logbook/crags/anston_stones_wood-953|Skirting Board Ladder|Unknown|/skirting_board_ladder-222366
+/logbook/crags/anston_stones_wood-953|Elbow Grease|Unknown|/elbow_grease-225680
+/logbook/crags/anston_stones_wood-953|Tartan Paint|Unknown|/tartan_paint-225877
+/logbook/crags/anston_stones_wood-953|Bucket Of Steam|Unknown|/bucket_of_steam-223673
+/logbook/crags/anston_stones_wood-953|Sir Alan|Unknown|/sir_alan-255233
+/logbook/crags/anston_stones_wood-953|Spider Crab Blues|Unknown|/spider_crab_blues-358541
+/logbook/crags/anston_stones_wood-953|The Cookie|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|The Wookie|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Nookie Monster|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Young Grasshopper|Unknown|/young_grasshopper-357619
+/logbook/crags/anston_stones_wood-953|Hemmed In|Unknown|/hemmed_in-269352
+/logbook/crags/anston_stones_wood-953|Spirit Level Bubbles|Unknown|/spirit_level_bubbles-222367
+/logbook/crags/anston_stones_wood-953|Crackdown|Unknown|/crackdown-223674
+/logbook/crags/anston_stones_wood-953|The Padawan|Unknown|/the_padawan-505686
+/logbook/crags/anston_stones_wood-953|Ball-of-Fire|Unknown|/10]
+/logbook/crags/anston_stones_wood-953|Ivy Come Ivy Go|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|You\u2019re Fired!|Unknown|/14]
+/logbook/crags/anston_stones_wood-953|Apprentice wall without sidepull|Unknown|/apprentice_wall_without_sidepull-766221
+/logbook/crags/anston_stones_wood-953|Takashi Sit Start|Unknown|/takashi_sit_start-222591
+/logbook/crags/anston_stones_wood-953|Whizz Kid Sit Start|Unknown|/whizz_kid_sit_start-221873
+/logbook/crags/anston_stones_wood-953|Wizz Kid Stand Start|Unknown|/wizz_kid_stand_start-222586
+/logbook/crags/anston_stones_wood-953|Pockets Problem|Unknown|/pockets_problem-221876
+/logbook/crags/anston_stones_wood-953|The Crack|Unknown|/the_crack-368134
+/logbook/crags/anston_stones_wood-953|The Crack Direct|Unknown|/the_crack_direct-634397
+/logbook/crags/anston_stones_wood-953|Get Horizontal|Unknown|/get_horizontal-634396
+/logbook/crags/anston_stones_wood-953|Left Arete|Unknown|/left_arete-232113
+/logbook/crags/anston_stones_wood-953|Red Streak|Unknown|/red_streak-232114
+/logbook/crags/anston_stones_wood-953|The Assassin|Unknown|/the_assassin-232115
+/logbook/crags/anston_stones_wood-953|The Crack Left Hand|Unknown|/the_crack_left_hand-232116
+/logbook/crags/anston_stones_wood-953|The Crack Right Hand|Unknown|/the_crack_right_hand-232117
+/logbook/crags/anston_stones_wood-953|The Wall|Unknown|/the_wall-232118
+/logbook/crags/anston_stones_wood-953|Mean Streak|Unknown|/mean_streak-232119
+/logbook/crags/anston_stones_wood-953|Right Arete|Unknown|/right_arete-232120
+/logbook/crags/anston_stones_wood-953|Left Wall|Unknown|/left_wall-349231
+/logbook/crags/anston_stones_wood-953|The Turnpost|Unknown|/the_turnpost-221874
+/logbook/crags/anston_stones_wood-953|The Prow|Unknown|/the_prow-349232
+/logbook/crags/anston_stones_wood-953|Right Wall|Unknown|/right_wall-349233
+/logbook/crags/anston_stones_wood-953|Gimli|Unknown|/gimli-660771
+/logbook/crags/anston_stones_wood-953|Rivendell|Unknown|/rivendell-222325
+/logbook/crags/anston_stones_wood-953|Rohan|Unknown|/rohan-222326
+/logbook/crags/anston_stones_wood-953|Saruman|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Nazgul Left Hand|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|The Nazgul Right Hand|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Aragorn|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Frodo|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Samwise|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|The Ent|Unknown|/the_ent-257619
+/logbook/crags/anston_stones_wood-953|There and Back Again|Unknown|/there_and_back_again-363997
+/logbook/crags/anston_stones_wood-953|Back and There Again|Unknown|/back_and_there_again-478133
+/logbook/crags/anston_stones_wood-953|Merry|Unknown|/merry-660770
+/logbook/crags/anston_stones_wood-953|Taking The Hobbits to Isengard|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Merry Direct|Unknown|/merry_direct-668648
+/logbook/crags/anston_stones_wood-953|Eowyn|Unknown|/eowyn-670812
+/logbook/crags/anston_stones_wood-953|Radagast|Unknown|/14]
+/logbook/crags/anston_stones_wood-953|Sam Wise Left|Unknown|/sam_wise_left-265229
+/logbook/crags/anston_stones_wood-953|Peregrin Took |Unknown|/peregrin_took-727511
+/logbook/crags/anston_stones_wood-953|A Short Cut To Mushrooms|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Fly You Fools|Unknown|/slug
+/logbook/crags/anston_stones_wood-953|Nazg\u00fbl\u2019s Hands|Unknown|/nazguls_hands-760967
+/logbook/crags/avon_gorge_main_area-31|Dweebland|E2|/dweebland-715254
+/logbook/crags/avon_gorge_main_area-31|Crooked Deal|Unknown|/crooked_deal-31060
+/logbook/crags/avon_gorge_main_area-31|Plate Tectonics|Unknown|/plate_tectonics-715255
+/logbook/crags/avon_gorge_main_area-31|Hermann Buhlshit|Unknown|/hermann_buhlshit-31301
+/logbook/crags/avon_gorge_main_area-31|More Buhl than Bull|Unknown|/more_buhl_than_bull-502273
+/logbook/crags/avon_gorge_main_area-31|Still Warthogs after all These Years|E2|/still_warthogs_after_all_these_years-31300
+/logbook/crags/avon_gorge_main_area-31|Wendy on Wednesday|Unknown|/wendy_on_wednesday-715256
+/logbook/crags/avon_gorge_main_area-31|Carefree Life of Casual Sex|Unknown|/carefree_life_of_casual_sex-502274
+/logbook/crags/avon_gorge_main_area-31|House of Cards|Unknown|/house_of_cards-31302
+/logbook/crags/avon_gorge_main_area-31|Nice Girls Don't Explode|E2|/nice_girls_dont_explode-31305
+/logbook/crags/avon_gorge_main_area-31|Ace High|Unknown|/ace_high-31306
+/logbook/crags/avon_gorge_main_area-31|Play Your Cards Right|E2|/play_your_cards_right-502275
+/logbook/crags/avon_gorge_main_area-31|Suicide Machine|E2|/suicide_machine-31307
+/logbook/crags/avon_gorge_main_area-31|Good Samaritan|Unknown|/good_samaritan-502276
+/logbook/crags/avon_gorge_main_area-31|Break Left|E2|/break_left-502277
+/logbook/crags/avon_gorge_main_area-31|Ipsos Moonshine|HVS|/ipsos_moonshine-715298
+/logbook/crags/avon_gorge_main_area-31|Time For Mythos|VS|/time_for_mythos-715299
+/logbook/crags/avon_gorge_main_area-31|Ender Dragon|Unknown|/ender_dragon-715300
+/logbook/crags/avon_gorge_main_area-31|Ender Dragon - Variation Fire Balls|VS|/ender_dragon_-_variation_fire_balls-715301
+/logbook/crags/avon_gorge_main_area-31|Venereal|HS|/venereal-44675
+/logbook/crags/avon_gorge_main_area-31|A Room Full of Mirrors|HVS|/a_room_full_of_mirrors-31308
+/logbook/crags/avon_gorge_main_area-31|Choker|Unknown|/choker-31310
+/logbook/crags/avon_gorge_main_area-31|Deep Sleep|Unknown|/deep_sleep-31387
+/logbook/crags/avon_gorge_main_area-31|The Last Gasp|E2|/slug
+/logbook/crags/avon_gorge_main_area-31|Dire Straits|Unknown|/dire_straits-31309
+/logbook/crags/avon_gorge_main_area-31|Mid-life Meltdown|Unknown|/mid-life_meltdown-31390
+/logbook/crags/avon_gorge_main_area-31|The Corpse|HVS|/the_corpse-31391
+/logbook/crags/avon_gorge_main_area-31|Peace|Unknown|/slug
+/logbook/crags/avon_gorge_main_area-31|Zombogies|Unknown|/zombogies-31392
+/logbook/crags/avon_gorge_main_area-31|The Poacher|Unknown|/the_poacher-31393
+/logbook/crags/avon_gorge_main_area-31|Poacher Direct|Unknown|/poacher_direct-502279
+/logbook/crags/avon_gorge_main_area-31|Maladroit|Unknown|/maladroit-31394
+/logbook/crags/avon_gorge_main_area-31|The Lich|HVS|/slug
+/logbook/crags/avon_gorge_main_area-31|The Mal|Unknown|/the_mal-31396
+/logbook/crags/avon_gorge_main_area-31|The Writing on the Wall|Unknown|/the_writing_on_the_wall-31397
+/logbook/crags/avon_gorge_main_area-31|Malediction|Unknown|/malediction-31398
+/logbook/crags/avon_gorge_main_area-31|Malambo|E2|/malambo-31399
+/logbook/crags/avon_gorge_main_area-31|Caprice|Unknown|/caprice-31400
+/logbook/crags/avon_gorge_main_area-31|Bon Bogies|HVS|/slug
+/logbook/crags/avon_gorge_main_area-31|Not a New Year's Honour|Unknown|/not_a_new_years_honour-502280
+/logbook/crags/avon_gorge_main_area-31|The Bogyman|E2|/the_bogyman-31402
+/logbook/crags/avon_gorge_main_area-31|Maltravers Left|E2|/maltravers_left-31403
+/logbook/crags/avon_gorge_main_area-31|Old Pretenders|E2|/old_pretenders-31404
+/logbook/crags/avon_gorge_main_area-31|Troillus Left-Hand|Unknown|/troillus_left-hand-31405
+/logbook/crags/avon_gorge_main_area-31|Mini-mal|Unknown|/mini-mal-502281
+/logbook/crags/avon_gorge_main_area-31|Troillus Direct|Unknown|/troillus_direct-31406
+/logbook/crags/avon_gorge_main_area-31|Troillus|HVS|/troillus-64978
+/logbook/crags/avon_gorge_main_area-31|The Beard of Ffoeg Nosam|E2|/the_beard_of_ffoeg_nosam-31407
+/logbook/crags/avon_gorge_main_area-31|The Beard|Unknown|/the_beard-31408
+/logbook/crags/avon_gorge_main_area-31|Maladjusted|E2|/maladjusted-31409
+/logbook/crags/avon_gorge_main_area-31|Maltravers|Unknown|/maltravers-31183
+/logbook/crags/avon_gorge_main_area-31|Maltravers Right|Unknown|/maltravers_right-502282
+/logbook/crags/avon_gorge_main_area-31|Link Pink|Unknown|/link_pink-31410
+/logbook/crags/avon_gorge_main_area-31|Mason's Folly|Unknown|/masons_folly-31411
+/logbook/crags/avon_gorge_main_area-31|Readjusted|E2|/readjusted-588081
+/logbook/crags/avon_gorge_main_area-31|Readjusted Direct Start|Unknown|/readjusted_direct_start-698530
+/logbook/crags/avon_gorge_main_area-31|The Shockin' Pink|E6|/the_shockin_pink-31412
+/logbook/crags/avon_gorge_main_area-31|Malpractice|Unknown|/malpractice-31413
+/logbook/crags/avon_gorge_main_area-31|Pink Ginsane|E6|/15]
+/logbook/crags/avon_gorge_main_area-31|Pink Insane|E6|/pink_insane-31415
+/logbook/crags/avon_gorge_main_area-31|Think Pink|Unknown|/slug
+/logbook/crags/avon_gorge_main_area-31|A Profusion of Pink|E6|/a_profusion_of_pink-31417
+/logbook/crags/avon_gorge_main_area-31|Reunion|Unknown|/reunion-31418
+/logbook/crags/avon_gorge_main_area-31|Krapp's Last Tape|Unknown|/slug
+/logbook/crags/avon_gorge_main_area-31|Little Fluffy Clouds|Unknown|/little_fluffy_clouds-31419
+/logbook/crags/avon_gorge_main_area-31|Baconconstrictor|Unknown|/baconconstrictor-31421
+/logbook/crags/avon_gorge_main_area-31|Main Wall Eliminate|Unknown|/slug
+/logbook/crags/avon_gorge_main_area-31|White Not Pink|Unknown|/white_not_pink-31423
+/logbook/crags/avon_gorge_main_area-31|Pilot Error|Unknown|/pilot_error-31424
+/logbook/crags/avon_gorge_main_area-31|Central Wall|Unknown|/slug
+/logbook/crags/avon_gorge_main_area-31|Atmosfears|Unknown|/atmosfears-31426
+/logbook/crags/avon_gorge_main_area-31|Caught under Cloud Nine|E6|/caught_under_cloud_nine-31427
+/logbook/crags/avon_gorge_main_area-31|Malwhatsit|Unknown|/malwhatsit-31428
+/logbook/crags/avon_gorge_main_area-31|Malbogies|HVS|/13]
+/logbook/crags/avon_gorge_main_area-31|Malicious|E2|/malicious-31578
+/logbook/crags/avon_gorge_main_area-31|The Thin Air|Unknown|/the_thin_air-31575
+/logbook/crags/avon_gorge_main_area-31|The Murky Way|E2|/the_murky_way-31576
+/logbook/crags/avon_gorge_main_area-31|The Preter|E2|/13]
+/logbook/crags/avon_gorge_main_area-31|Hefalump Trap meets Suck It and See|Unknown|/hefalump_trap_meets_suck_it_and_see-31579
+/logbook/crags/avon_gorge_main_area-31|Dyson with Death|Unknown|/dyson_with_death-31581
+/logbook/crags/avon_gorge_main_area-31|The Electric Orgasm|Unknown|/the_electric_orgasm-31582
+/logbook/crags/avon_gorge_main_area-31|Malteaser|Unknown|/malteaser-502283
+/logbook/crags/avon_gorge_main_area-31|Malfunction|Unknown|/malfunction-31583
+/logbook/crags/avon_gorge_main_area-31|Malady|Unknown|/malady-31584
+/logbook/crags/avon_gorge_main_area-31|Mercavity|E2|/mercavity-31586
+/logbook/crags/avon_gorge_main_area-31|Depravity|Unknown|/depravity-31587
+/logbook/crags/avon_gorge_main_area-31|Fillcavity|Unknown|/fillcavity-31588
+/logbook/crags/avon_gorge_main_area-31|Malkrappity|Unknown|/malkrappity-31589
+/logbook/crags/avon_gorge_main_area-31|Coup d'Etat|E6|/coup_detat-31590
+/logbook/crags/avon_gorge_main_area-31|Comedy of Errors|Unknown|/comedy_of_errors-31591
+/logbook/crags/avon_gorge_main_area-31|Steppenwolf|Unknown|/steppenwolf-31592
+/logbook/crags/avon_gorge_main_area-31|Born to Be Riled|Unknown|/born_to_be_riled-31593
+/logbook/crags/avon_gorge_main_area-31|Kampf|Unknown|/kampf-31594
+/logbook/crags/avon_gorge_main_area-31|Kampf Direct|Unknown|/kampf_direct-502284
+/logbook/crags/avon_gorge_main_area-31|Magic Theatre|Unknown|/magic_theatre-31595
+/logbook/crags/avon_gorge_main_area-31|Shutup and Dance|E6|/shutup_and_dance-31596
+/logbook/crags/avon_gorge_main_area-31|Kranz|E2|/kranz-31597
+/logbook/crags/avon_gorge_main_area-31|Space Invader|Unknown|/space_invader-31598
+/logbook/crags/avon_gorge_main_area-31|Space Invader Direct|Unknown|/space_invader_direct-31599
+/logbook/crags/avon_gorge_main_area-31|Uncut|E6|/uncut-31600
+/logbook/crags/avon_gorge_main_area-31|Bristol Unillustrated|E6|/bristol_unillustrated-31601
+/logbook/crags/avon_gorge_main_area-31|Showbiz|E6|/showbiz-31602
+/logbook/crags/avon_gorge_main_area-31|Malbogies Direct Start|Unknown|/malbogies_direct_start-592494
+/logbook/crags/avon_gorge_main_area-31|Central Wall Direct Start|Unknown|/central_wall_direct_start-738197
+/logbook/crags/avon_gorge_main_area-31|The Evening Light|Unknown|/the_evening_light-31603
+/logbook/crags/avon_gorge_main_area-31|Bees' Nest|HVS|/bees_nest-31604
+/logbook/crags/avon_gorge_main_area-31|XON XOFF|Unknown|/xon_xoff-31605
+/logbook/crags/avon_gorge_main_area-31|Goth|E2|/goth-31606
+/logbook/crags/avon_gorge_main_area-31|Polar Reaches|E6|/polar_reaches-31607
+/logbook/crags/avon_gorge_main_area-31|Timespan|E6|/timespan-31608
+/logbook/crags/avon_gorge_main_area-31|Breakfast Ledge Access Route|HS|/breakfast_ledge_access_route-502285
+/logbook/crags/avon_gorge_main_area-31|Lich Gates|E2|/slug
+/logbook/crags/avon_gorge_main_area-31|Lich Gates Direct Finish|Unknown|/lich_gates_direct_finish-31610
+/logbook/crags/avon_gorge_main_area-31|Peryl|Unknown|/slug
+/logbook/crags/avon_gorge_main_area-31|The White Elephant|Unknown|/the_white_elephant-31612
+/logbook/crags/avon_gorge_main_area-31|Changeling|Unknown|/slug
+/logbook/crags/avon_gorge_main_area-31|Oceans of Taboo|Unknown|/oceans_of_taboo-31614
+/logbook/crags/avon_gorge_main_area-31|Pink Wall Direct|E2|/pink_wall_direct-31615
+/logbook/crags/avon_gorge_main_area-31|Pink Wall Indirect|Unknown|/pink_wall_indirect-98457
+/logbook/crags/avon_gorge_main_area-31|Pink Wall Direct Finish|Unknown|/pink_wall_direct_finish-502286
+/logbook/crags/avon_gorge_main_area-31|Sturm|Unknown|/sturm-502287
+/logbook/crags/avon_gorge_main_area-31|Drang|Unknown|/drang-31617
+/logbook/crags/avon_gorge_main_area-31|Dyno Sores|Unknown|/dyno_sores-31618
+/logbook/crags/avon_gorge_main_area-31|Velociraptor|Unknown|/velociraptor-502288
+/logbook/crags/avon_gorge_main_area-31|Dead Dog Soup|Unknown|/dead_dog_soup-31619
+/logbook/crags/avon_gorge_main_area-31|The Equator|E2|/the_equator-31620
+/logbook/crags/avon_gorge_main_area-31|Crossing the Dateline|Unknown|/crossing_the_dateline-31621
+/logbook/crags/avon_gorge_main_area-31|Pink Wall Traverse|HVS|/pink_wall_traverse-31622
+/logbook/crags/avon_gorge_main_area-31|The Pedantic Pituitary Gland|HVS|/the_pedantic_pituitary_gland-31623
+/logbook/crags/avon_gorge_main_area-31|Grumphuttock's Lament|Unknown|/grumphuttocks_lament-31624
+/logbook/crags/avon_gorge_main_area-31|Cumming round the Mountain|Unknown|/cumming_round_the_mountain-31625
+/logbook/crags/avon_gorge_main_area-31|Side Affects|Unknown|/side_affects-31626
+/logbook/crags/avon_gorge_main_area-31|The Blue Horizon|E2|/the_blue_horizon-31627
+/logbook/crags/avon_gorge_main_area-31|Malarkey|E2|/malarkey-31628
+/logbook/crags/avon_gorge_main_area-31|Mud Slide Slim|Unknown|/mud_slide_slim-31629
+/logbook/crags/avon_gorge_main_area-31|Wombling Free|E2|/wombling_free-31630
+/logbook/crags/avon_gorge_main_area-31|Quality Street|Unknown|/quality_street-31631
+/logbook/crags/avon_gorge_main_area-31|The Old Girdle|E2|/the_old_girdle-502289
+/logbook/crags/avon_gorge_main_area-31|Bog Wall Traverse|Unknown|/bog_wall_traverse-44674
+/logbook/crags/avon_gorge_main_area-31|Bog Wall Backside Traverse|Unknown|/bog_wall_backside_traverse-251046
+/logbook/crags/avon_gorge_main_area-31|Dynosaur|Unknown|/dynosaur-225212
+/logbook/crags/avon_gorge_main_area-31|Dawn Walk|S|/dawn_walk-34175
+/logbook/crags/avon_gorge_main_area-31|Corner|HVS|/corner-32293
+/logbook/crags/avon_gorge_main_area-31|All Day Breakfast|Unknown|/all_day_breakfast-502290
+/logbook/crags/avon_gorge_main_area-31|Mason's Plank Walk|Unknown|/masons_plank_walk-34177
+/logbook/crags/avon_gorge_main_area-31|Turn of the Screw|Unknown|/turn_of_the_screw-44627
+/logbook/crags/avon_gorge_main_area-31|Eyes Wide Open|Unknown|/eyes_wide_open-502291
+/logbook/crags/avon_gorge_main_area-31|Reveille|HVS|/reveille-34179
+/logbook/crags/avon_gorge_main_area-31|Tiptoe Fingers|HVS|/tiptoe_fingers-44628
+/logbook/crags/avon_gorge_main_area-31|Priceless|E2|/priceless-44629
+/logbook/crags/avon_gorge_main_area-31|Rude Awakening|E2|/rude_awakening-34180
+/logbook/crags/avon_gorge_main_area-31|Morning Glory|Unknown|/morning_glory-742752
+/logbook/crags/avon_gorge_main_area-31|Morty's Error|E2|/mortys_error-44630
+/logbook/crags/avon_gorge_main_area-31|Lime in de Coconut|Unknown|/lime_in_de_coconut-44631
+/logbook/crags/avon_gorge_main_area-31|Mike's Mistake|E2|/15]
+/logbook/crags/avon_gorge_main_area-31|Mark's Morality|Unknown|/marks_morality-32288
+/logbook/crags/avon_gorge_main_area-31|Last Trump|Unknown|/last_trump-34182
+/logbook/crags/avon_gorge_main_area-31|Last Post|VS|/last_post-34185
+/logbook/crags/avon_gorge_main_area-31|First Class Post|Unknown|/first_class_post-502292
+/logbook/crags/avon_gorge_main_area-31|Clarion|VS|/slug
+/logbook/crags/avon_gorge_main_area-31|Clarion Direct|HVS|/clarion_direct-582610
+/logbook/crags/avon_gorge_main_area-31|Thorne Concerto|Unknown|/thorne_concerto-502293
+/logbook/crags/avon_gorge_main_area-31|Sinister|HS|/slug
+/logbook/crags/avon_gorge_main_area-31|Mahout|E2|/mahout-502294
+/logbook/crags/avon_gorge_main_area-31|Good Morning You|HS|/good_morning_you-328222
+/logbook/crags/avon_gorge_main_area-31|Dexter Variation - Poindexter|HVS|/dexter_variation_-_poindexter-353930
+/logbook/crags/avon_gorge_main_area-31|Dexter|VS|/slug
+/logbook/crags/avon_gorge_main_area-31|Dark Motive|HVS|/slug
+/logbook/crags/avon_gorge_main_area-31|Mediator|Unknown|/mediator-34193
+/logbook/crags/avon_gorge_main_area-31|The Ar\u00eate|S|/the_arete-32255
+/logbook/crags/avon_gorge_main_area-31|Sinister-Dexter|HS|/sinister-dexter-668402
+/logbook/crags/avon_gorge_main_area-31|Tiptoe Fingertips|E2|/tiptoe_fingertips-705252
+/logbook/crags/avon_gorge_main_area-31|Dexter Variation - Dexterous|VS|/slug
+/logbook/crags/avon_gorge_main_area-31|Gurgle Girdle|VS|/gurgle_girdle-34199
+/logbook/crags/avon_gorge_main_area-31|Lost in Space|E2|/lost_in_space-44632
+/logbook/crags/avon_gorge_main_area-31|Lie-in Late and Let the World Go By|VS|/lie-in_late_and_let_the_world_go_by-502295
+/logbook/crags/avon_gorge_main_area-31|Consolation|VD|/consolation-34261
+/logbook/crags/avon_gorge_main_area-31|Ledge and Groove|D|/ledge_and_groove-34262
+/logbook/crags/avon_gorge_main_area-31|Boilerplate Direct|VS|/boilerplate_direct-34263
+/logbook/crags/avon_gorge_main_area-31|Boilerplate Rib|VS|/boilerplate_rib-34264
+/logbook/crags/avon_gorge_main_area-31|Aftermath|VS|/aftermath-34265
+/logbook/crags/avon_gorge_main_area-31|Evening Topsy Direct|HVS|/evening_topsy_direct-44635
+/logbook/crags/avon_gorge_main_area-31|Bob's Climb|VD|/bobs_climb-32290
+/logbook/crags/avon_gorge_main_area-31|Grey Wall|VD|/grey_wall-34266
+/logbook/crags/avon_gorge_main_area-31|The Final Cut?|E2|/the_final_cut-40278
+/logbook/crags/avon_gorge_main_area-31|Petros|VS|/petros-34267
+/logbook/crags/avon_gorge_main_area-31|Aristophanes|Unknown|/aristophanes-501976
+/logbook/crags/avon_gorge_main_area-31|Direct Route|S|/slug
+/logbook/crags/avon_gorge_main_area-31|Afternoon Delight|Unknown|/afternoon_delight-738128
+/logbook/crags/avon_gorge_main_area-31|Direct Finish|S|/direct_finish-32256
+/logbook/crags/avon_gorge_main_area-31|Original Route|D|/original_route-32755
+/logbook/crags/avon_gorge_main_area-31|Direct Start|HS|/direct_start-669331
+/logbook/crags/avon_gorge_main_area-31|Consolation Direct Finish|VS|/consolation_direct_finish-735066
+/logbook/crags/avon_gorge_main_area-31|Screw The Gallery|S|/screw_the_gallery-736639
+/logbook/crags/avon_gorge_main_area-31|Security Haken|Unknown|/security_haken-502296
+/logbook/crags/avon_gorge_main_area-31|Central Gully|HS|/slug
+/logbook/crags/avon_gorge_main_area-31|Central Slab|HVS|/central_slab-38897
+/logbook/crags/avon_gorge_main_area-31|Central Rib|VS|/central_rib-34269
+/logbook/crags/avon_gorge_main_area-31|The Inverted-V|VS|/the_inverted-v-44636
+/logbook/crags/avon_gorge_main_area-31|Great Central Piton Route Eliminate|Unknown|/great_central_piton_route_eliminate-44637
+/logbook/crags/avon_gorge_main_area-31|Great Central Route|HVS|/slug
+/logbook/crags/avon_gorge_main_area-31|Piton Route|VS|/slug
+/logbook/crags/avon_gorge_main_area-31|Balcombe's Way|Unknown|/balcombes_way-502297
+/logbook/crags/avon_gorge_main_area-31|Two-Peg Finish|HVS|/two-peg_finish-502298
+/logbook/crags/avon_gorge_main_area-31|Central Eliminate|Unknown|/central_eliminate-184307
+/logbook/crags/avon_gorge_main_area-31|Grand Central Station|E2|/grand_central_station-44638
+/logbook/crags/avon_gorge_main_area-31|Central Buttress|Unknown|/slug
+/logbook/crags/avon_gorge_main_area-31|Centaur|E2|/centaur-44639
+/logbook/crags/avon_gorge_main_area-31|Pleb in Peril|Unknown|/pleb_in_peril-44640
+/logbook/crags/avon_gorge_main_area-31|Diamond Wall|Unknown|/diamond_wall-446383
+/logbook/crags/avon_gorge_main_area-31|Diamond Groove|Unknown|/diamond_groove-44642
+/logbook/crags/avon_gorge_main_area-31|Not before Time|Unknown|/not_before_time-44643
+/logbook/crags/avon_gorge_main_area-31|Slap 'n' Tickle|Unknown|/slap_n_tickle-44644
+/logbook/crags/avon_gorge_main_area-31|Desperation|Unknown|/desperation-34279
+/logbook/crags/avon_gorge_main_area-31|Easy Route|Unknown|/easy_route-34280
+/logbook/crags/avon_gorge_main_area-31|Corridor|VS|/corridor-44645
+/logbook/crags/avon_gorge_main_area-31|Hiatus|VS|/hiatus-44646
+/logbook/crags/avon_gorge_main_area-31|Route Two|Unknown|/route_two-44647
+/logbook/crags/avon_gorge_main_area-31|Route Minus Two|Unknown|/route_minus_two-44648
+/logbook/crags/avon_gorge_main_area-31|Route Minus One|Unknown|/route_minus_one-44649
+/logbook/crags/avon_gorge_main_area-31|Route 0|Unknown|/route_0-37575
+/logbook/crags/avon_gorge_main_area-31|Route One|Unknown|/route_one-37577
+/logbook/crags/avon_gorge_main_area-31|Joe's Problem|Unknown|/joes_problem-37576
+/logbook/crags/avon_gorge_main_area-31|Left Edge Route|VD|/left_edge_route-44650
+/logbook/crags/avon_gorge_main_area-31|Rake and Slab|D|/rake_and_slab-38674
+/logbook/crags/avon_gorge_main_area-31|Descent Route|D|/descent_route-38675
+/logbook/crags/avon_gorge_main_area-31|Itslide|VS|/itslide-44651
+/logbook/crags/avon_gorge_main_area-31|Inferior Rubbers|HVS|/inferior_rubbers-44652
+/logbook/crags/avon_gorge_main_area-31|Friction|HVS|/friction-44653
+/logbook/crags/avon_gorge_main_area-31|Fir Tree Traverse|S|/fir_tree_traverse-44654
+/logbook/crags/avon_gorge_main_area-31|Fingerrip|Unknown|/fingerrip-44655
+/logbook/crags/avon_gorge_main_area-31|Artifax|Unknown|/artifax-44656
+/logbook/crags/avon_gorge_main_area-31|Sockrot|Unknown|/sockrot-44657
+/logbook/crags/avon_gorge_main_area-31|YoYo|E2|/yoyo-44658
+/logbook/crags/avon_gorge_main_area-31|RedPoints|E2|/redpoints-502299
+/logbook/crags/avon_gorge_main_area-31|Vee Climb|HVS|/vee_climb-44659
+/logbook/crags/avon_gorge_main_area-31|Waiting for Gonzalo|E2|/waiting_for_gonzalo-502300
+/logbook/crags/avon_gorge_main_area-31|Superior Blubber|Unknown|/superior_blubber-44660
+/logbook/crags/avon_gorge_main_area-31|Hades Crack|VS|/hades_crack-44664
+/logbook/crags/avon_gorge_main_area-31|Underworld|Unknown|/underworld-502301
+/logbook/crags/avon_gorge_main_area-31|Sewer Groove|Unknown|/sewer_groove-44665
+/logbook/crags/avon_gorge_main_area-31|Intercepting Trap|Unknown|/intercepting_trap-44666
+/logbook/crags/avon_gorge_main_area-31|Sewer Wall Direct|E2|/sewer_wall_direct-502302
+/logbook/crags/avon_gorge_main_area-31|Sewer Wall Super Direct|Unknown|/sewer_wall_super_direct-502303
+/logbook/crags/avon_gorge_main_area-31|Sewer Wall|Unknown|/sewer_wall-44667
+/logbook/crags/avon_gorge_main_area-31|Sewerside Wall|HVS|/sewerside_wall-44668
+/logbook/crags/avon_gorge_main_area-31|Invert Level|Unknown|/invert_level-502304
+/logbook/crags/avon_gorge_main_area-31|Guy|E6|/guy-445693
+/logbook/crags/avon_gorge_main_area-31|Bulging Balls|Unknown|/bulging_balls-502305
+/logbook/crags/avon_gorge_main_area-31|Bulging Wall|HVS|/bulging_wall-44661
+/logbook/crags/avon_gorge_main_area-31|The Two-thirty Rain|Unknown|/the_two-thirty_rain-44662
+/logbook/crags/avon_gorge_main_area-31|Fly Away|Unknown|/slug
+/logbook/crags/avon_gorge_main_area-31|The Faerie Queene|Unknown|/the_faerie_queene-624593
+/logbook/crags/avon_gorge_main_area-31|Titania|Unknown|/titania-619550
+/logbook/crags/avon_gorge_main_area-31|Oberon|Unknown|/oberon-617544
+/logbook/crags/avon_gorge_main_area-31|Clot Buster|E2|/clot_buster-502307
+/logbook/crags/avon_gorge_main_area-31|Away with the fairies|Unknown|/away_with_the_fairies-627001
+/logbook/crags/avon_gorge_main_area-31|Pining is a Pastime|Unknown|/pining_is_a_pastime-502309
+/logbook/crags/avon_gorge_main_area-31|Fir Tree Buttress|HS|/fir_tree_buttress-44663
+/logbook/crags/avon_gorge_main_area-31|Plasminogen Activator|Unknown|/plasminogen_activator-502308
+/logbook/crags/avon_gorge_main_area-31|Silvermist|Unknown|/silvermist-502310
+/logbook/crags/avon_gorge_main_area-31|Faylinn|Unknown|/faylinn-502311
+/logbook/crags/avon_gorge_main_area-31|Lightning-Fast-Reactions|Unknown|/lightning-fast-reactions-44669
+/logbook/crags/avon_gorge_main_area-31|Tumbling Dice|Unknown|/tumbling_dice-44670
+/logbook/crags/avon_gorge_main_area-31|Greased Lightning Crack|HS|/greased_lightning_crack-44671
+/logbook/crags/avon_gorge_main_area-31|FCK WRK|Unknown|/fck_wrk-715329
+/logbook/crags/avon_gorge_main_area-31|The Revolution Will Not Be Bolted|Unknown|/the_revolution_will_not_be_bolted-715275
+/logbook/crags/avon_gorge_main_area-31|To Bolt Is Not To Be|Unknown|/to_bolt_is_not_to_be-715257
+/logbook/crags/avon_gorge_main_area-31|The Sportification of Avon|Unknown|/the_sportification_of_avon-680436
+/logbook/crags/avon_gorge_main_area-31|Jesus H8s You|Unknown|/jesus_h8s_you-715258
+/logbook/crags/avon_gorge_main_area-31|Jesus H8s You - Variation|Unknown|/slug
+/logbook/crags/avon_gorge_main_area-31|Burn a Little Brighter Now|Unknown|/burn_a_little_brighter_now-715750
+/logbook/crags/avon_gorge_main_area-31|Wall of Wander|Unknown|/wall_of_wander-680604
+/logbook/crags/avon_gorge_main_area-31|Puer aeternus|Unknown|/puer_aeternus-680431
+/logbook/crags/avon_gorge_main_area-31|Dirty Little Secret|Unknown|/dirty_little_secret-715260
+/logbook/crags/avon_gorge_main_area-31|The Bolt Police|Unknown|/the_bolt_police-715261
+/logbook/crags/avon_gorge_main_area-31|Aphrodite at the Waterhole|Unknown|/aphrodite_at_the_waterhole-715262
+/logbook/crags/avon_gorge_main_area-31|Anglo Ambience|Unknown|/anglo_ambience-715263
+/logbook/crags/avon_gorge_main_area-31|The Real VIP\u2019s|Unknown|/the_real_vips-680403
+/logbook/crags/avon_gorge_main_area-31|Moon Stomper|Unknown|/moon_stomper-715264
+/logbook/crags/avon_gorge_main_area-31|Intimacy|Unknown|/intimacy-715290
+/logbook/crags/avon_gorge_main_area-31|Have you got a WKD side|Unknown|/have_you_got_a_wkd_side-681356
+/logbook/crags/avon_gorge_main_area-31|Bristol Diamond|Unknown|/bristol_diamond-502312
+/logbook/crags/avon_gorge_main_area-31|The Road|E6|/the_road-444477
+/logbook/crags/avon_gorge_main_area-31|FKD|Unknown|/fkd-502313
+/logbook/crags/avon_gorge_main_area-31|You don\u2019t want a criminal lawyer you want a \u201ccriminal\u201d lawyer|Unknown|/you_dont_want_a_criminal_lawyer_you_want_a_criminal_lawyer-684610
+/logbook/crags/avon_gorge_main_area-31|The Moon under Water|E2|/the_moon_under_water-44672
+/logbook/crags/avon_gorge_main_area-31|The Curse of the Combustion Engine|Unknown|/the_curse_of_the_combustion_engine-715265
+/logbook/crags/avon_gorge_main_area-31|Drive by Driller|Unknown|/drive_by_driller-715266
+/logbook/crags/avon_gorge_main_area-31|The Colston Four|Unknown|/the_colston_four-715267
+/logbook/crags/avon_gorge_main_area-31|This is Bear Country|Unknown|/this_is_bear_country-715268
+/logbook/crags/avon_gorge_main_area-31|Link up - Road Rash|Unknown|/link_up_-_road_rash-715269
+/logbook/crags/avon_gorge_main_area-31|Point Villa Slab 1|Unknown|/point_villa_slab_1-716642
+/logbook/crags/avon_gorge_main_area-31|Point Villa Slab 2|Unknown|/point_villa_slab_2-716643
+/logbook/crags/avon_gorge_main_area-31|Funderworld|Unknown|/funderworld-716644
+/logbook/crags/avon_gorge_main_area-31|Hogwarts Express|Unknown|/hogwarts_express-715252
+/logbook/crags/avon_gorge_main_area-31|Second Class Seat|Unknown|/second_class_seat-715270
+/logbook/crags/avon_gorge_main_area-31|Ticket to Ride|HS|/ticket_to_ride-715271
+/logbook/crags/avon_gorge_main_area-31|Always Go First Class|Unknown|/always_go_first_class-715272
+/logbook/crags/avon_gorge_main_area-31|Bolt at the End of the Tunnel|Unknown|/bolt_at_the_end_of_the_tunnel-715273
+/logbook/crags/avon_gorge_main_area-31|The Ghost Train of World War One blah blah blah|S|/the_ghost_train_of_world_war_one_blah_blah_blah-746990
+/logbook/crags/avon_gorge_sea_walls_area-29|The Halcyon Days of the Bourgeoisie|Unknown|/the_halcyon_days_of_the_bourgeoisie-31880
+/logbook/crags/avon_gorge_sea_walls_area-29|Spool to Tape|Unknown|/spool_to_tape-31881
+/logbook/crags/avon_gorge_sea_walls_area-29|Quietly Confident|E2|/quietly_confident-31882
+/logbook/crags/avon_gorge_sea_walls_area-29|Hard Labour|Unknown|/hard_labour-31883
+/logbook/crags/avon_gorge_sea_walls_area-29|Aasvogel|VS|/aasvogel-31884
+/logbook/crags/avon_gorge_sea_walls_area-29|Curtain Call|E2|/curtain_call-31885
+/logbook/crags/avon_gorge_sea_walls_area-29|Wintersol|E2|/wintersol-31886
+/logbook/crags/avon_gorge_sea_walls_area-29|Stage Fright|E2|/stage_fright-31887
+/logbook/crags/avon_gorge_sea_walls_area-29|Desecrator|HVS|/desecrator-31888
+/logbook/crags/avon_gorge_sea_walls_area-29|Klib|Unknown|/klib-31889
+/logbook/crags/avon_gorge_sea_walls_area-29|Klib (Cave Start)|Unknown|/klib_cave_start-502215
+/logbook/crags/avon_gorge_sea_walls_area-29|Castillos des Arenas|Unknown|/castillos_des_arenas-31890
+/logbook/crags/avon_gorge_sea_walls_area-29|Chalk and Cheese|Unknown|/chalk_and_cheese-31891
+/logbook/crags/avon_gorge_sea_walls_area-29|The Bilk|Unknown|/the_bilk-31892
+/logbook/crags/avon_gorge_sea_walls_area-29|The Blik|Unknown|/the_blik-31893
+/logbook/crags/avon_gorge_sea_walls_area-29|Men of the World|Unknown|/men_of_the_world-31894
+/logbook/crags/avon_gorge_sea_walls_area-29|Appendix|Unknown|/appendix-501390
+/logbook/crags/avon_gorge_sea_walls_area-29|Urban Gorilla|Unknown|/urban_gorilla-31895
+/logbook/crags/avon_gorge_sea_walls_area-29|Urban Gorilla Direct|Unknown|/urban_gorilla_direct-502216
+/logbook/crags/avon_gorge_sea_walls_area-29|Unknown Wall|VS|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Unknown Wall Direct|HVS|/unknown_wall_direct-502217
+/logbook/crags/avon_gorge_sea_walls_area-29|Unknown Slab|E2|/unknown_slab-31897
+/logbook/crags/avon_gorge_sea_walls_area-29|The Orang Outang out of Jungle Book|Unknown|/the_orang_outang_out_of_jungle_book-31898
+/logbook/crags/avon_gorge_sea_walls_area-29|Castle in the Sky|Unknown|/castle_in_the_sky-735758
+/logbook/crags/avon_gorge_sea_walls_area-29|Criminal Damage|Unknown|/criminal_damage-725359
+/logbook/crags/avon_gorge_sea_walls_area-29|Black Masks and Gasoline|Unknown|/black_masks_and_gasoline-725360
+/logbook/crags/avon_gorge_sea_walls_area-29|Reckless|Unknown|/reckless-31899
+/logbook/crags/avon_gorge_sea_walls_area-29|Enter the Dragon|Unknown|/enter_the_dragon-723176
+/logbook/crags/avon_gorge_sea_walls_area-29|Forbidden Games|Unknown|/forbidden_games-724285
+/logbook/crags/avon_gorge_sea_walls_area-29|This Flight Tonight|Unknown|/this_flight_tonight-31900
+/logbook/crags/avon_gorge_sea_walls_area-29|Dragon|Unknown|/dragon-31901
+/logbook/crags/avon_gorge_sea_walls_area-29|The Real St Werburghs|Unknown|/the_real_st_werburghs-31902
+/logbook/crags/avon_gorge_sea_walls_area-29|Unknown Pleasures|E6|/unknown_pleasures-31903
+/logbook/crags/avon_gorge_sea_walls_area-29|Unknown Pleasures (Final Pitch)|Unknown|/unknown_pleasures_final_pitch-127894
+/logbook/crags/avon_gorge_sea_walls_area-29|Amanita Muscarina|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Psychopath Way|E6|/psychopath_way-31905
+/logbook/crags/avon_gorge_sea_walls_area-29|Hammer Horror|Unknown|/hammer_horror-31906
+/logbook/crags/avon_gorge_sea_walls_area-29|Zombie Nation|Unknown|/zombie_nation-502218
+/logbook/crags/avon_gorge_sea_walls_area-29|Yellow Edge|Unknown|/yellow_edge-31907
+/logbook/crags/avon_gorge_sea_walls_area-29|Quip U for Leisure|Unknown|/quip_u_for_leisure-31908
+/logbook/crags/avon_gorge_sea_walls_area-29|Captain Swing|Unknown|/captain_swing-31909
+/logbook/crags/avon_gorge_sea_walls_area-29|The Haystack|Unknown|/the_haystack-31910
+/logbook/crags/avon_gorge_sea_walls_area-29|The Imploding Galaxy|Unknown|/the_imploding_galaxy-31911
+/logbook/crags/avon_gorge_sea_walls_area-29|Tour de France|E6|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Was It You?|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|It Wasn't Me|E6|/it_wasnt_me-311452
+/logbook/crags/avon_gorge_sea_walls_area-29|Duncan Goes to Clevedon|Unknown|/duncan_goes_to_clevedon-31914
+/logbook/crags/avon_gorge_sea_walls_area-29|Stardust|Unknown|/stardust-731758
+/logbook/crags/avon_gorge_sea_walls_area-29|Unknown Gully|HVS|/unknown_gully-32074
+/logbook/crags/avon_gorge_sea_walls_area-29|A Spring in the Executioner's Step|Unknown|/a_spring_in_the_executioners_step-730584
+/logbook/crags/avon_gorge_sea_walls_area-29|Andy Walhol|Unknown|/andy_walhol-726615
+/logbook/crags/avon_gorge_sea_walls_area-29|Avona Humpalot|Unknown|/avona_humpalot-733566
+/logbook/crags/avon_gorge_sea_walls_area-29|Take Five|E2|/take_five-32075
+/logbook/crags/avon_gorge_sea_walls_area-29|World Famous for Fifteen Minutes|Unknown|/world_famous_for_fifteen_minutes-726614
+/logbook/crags/avon_gorge_sea_walls_area-29|Hang Ten|Unknown|/hang_ten-32076
+/logbook/crags/avon_gorge_sea_walls_area-29|Smog of Things|E6|/smog_of_things-32077
+/logbook/crags/avon_gorge_sea_walls_area-29|The Pusher|E2|/the_pusher-32078
+/logbook/crags/avon_gorge_sea_walls_area-29|New Horizons|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Superstition|Unknown|/superstition-32125
+/logbook/crags/avon_gorge_sea_walls_area-29|Poked Off|E6|/poked_off-32127
+/logbook/crags/avon_gorge_sea_walls_area-29|Hocus Pocus|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Hocus Pocus (Integrale)|Unknown|/hocus_pocus_integrale-732415
+/logbook/crags/avon_gorge_sea_walls_area-29|Conjuring Trick|Unknown|/conjuring_trick-32129
+/logbook/crags/avon_gorge_sea_walls_area-29|M2|Unknown|/15]
+/logbook/crags/avon_gorge_sea_walls_area-29|M1|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Motorway Madness|Unknown|/motorway_madness-32132
+/logbook/crags/avon_gorge_sea_walls_area-29|Electra Glide Direct Start|Unknown|/electra_glide_direct_start-502219
+/logbook/crags/avon_gorge_sea_walls_area-29|Electra Glide|Unknown|/electra_glide-32133
+/logbook/crags/avon_gorge_sea_walls_area-29|Ladder of Desire|Unknown|/15]
+/logbook/crags/avon_gorge_sea_walls_area-29|Cuban Eyes|Unknown|/cuban_eyes-32135
+/logbook/crags/avon_gorge_sea_walls_area-29|The Rebel Yell|E6|/the_rebel_yell-32136
+/logbook/crags/avon_gorge_sea_walls_area-29|Pigeon's Nest|Unknown|/pigeons_nest-32137
+/logbook/crags/avon_gorge_sea_walls_area-29|Crown of Thorns|Unknown|/crown_of_thorns-32138
+/logbook/crags/avon_gorge_sea_walls_area-29|I'm 55|E6|/im_55-32139
+/logbook/crags/avon_gorge_sea_walls_area-29|Non-stick|E2|/non-stick-32140
+/logbook/crags/avon_gorge_sea_walls_area-29|The Enchanted Gordon|E6|/the_enchanted_gordon-32141
+/logbook/crags/avon_gorge_sea_walls_area-29|Slap Stick|Unknown|/slap_stick-32142
+/logbook/crags/avon_gorge_sea_walls_area-29|Jimmy Lowe|Unknown|/jimmy_lowe-32143
+/logbook/crags/avon_gorge_sea_walls_area-29|Make It Up as You Go Along|E2|/make_it_up_as_you_go_along-32144
+/logbook/crags/avon_gorge_sea_walls_area-29|56 Is The New 55|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Tour de France (Top pitch only)|Unknown|/tour_de_france_top_pitch_only-715824
+/logbook/crags/avon_gorge_sea_walls_area-29|Straight and Narrow|Unknown|/straight_and_narrow-32149
+/logbook/crags/avon_gorge_sea_walls_area-29|Them|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Keep on Going|Unknown|/keep_on_going-32151
+/logbook/crags/avon_gorge_sea_walls_area-29|Already Gone|Unknown|/already_gone-32152
+/logbook/crags/avon_gorge_sea_walls_area-29|Already Gone Direct Start|E6|/already_gone_direct_start-502221
+/logbook/crags/avon_gorge_sea_walls_area-29|Rising Son|E6|/rising_son-502222
+/logbook/crags/avon_gorge_sea_walls_area-29|Solar Power|Unknown|/solar_power-32153
+/logbook/crags/avon_gorge_sea_walls_area-29|Slender Norris|Unknown|/slender_norris-32154
+/logbook/crags/avon_gorge_sea_walls_area-29|Big Wednesday|Unknown|/big_wednesday-32155
+/logbook/crags/avon_gorge_sea_walls_area-29|New Horizons II|E2|/new_horizons_ii-32156
+/logbook/crags/avon_gorge_sea_walls_area-29|An Illusion of Love|E6|/an_illusion_of_love-32157
+/logbook/crags/avon_gorge_sea_walls_area-29|Lost Illusions|Unknown|/lost_illusions-32158
+/logbook/crags/avon_gorge_sea_walls_area-29|Bold as Love|E6|/bold_as_love-32159
+/logbook/crags/avon_gorge_sea_walls_area-29|Mirage|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Mechanical Advantage|E6|/mechanical_advantage-740919
+/logbook/crags/avon_gorge_sea_walls_area-29|Raindoctor|Unknown|/raindoctor-32161
+/logbook/crags/avon_gorge_sea_walls_area-29|Arms Race|Unknown|/arms_race-32162
+/logbook/crags/avon_gorge_sea_walls_area-29|Street Life|Unknown|/street_life-32164
+/logbook/crags/avon_gorge_sea_walls_area-29|Living on the Skyline|Unknown|/living_on_the_skyline-32163
+/logbook/crags/avon_gorge_sea_walls_area-29|Low Profile|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Low Police Profile|E6|/low_police_profile-32165
+/logbook/crags/avon_gorge_sea_walls_area-29|Higher Profile|E6|/higher_profile-32166
+/logbook/crags/avon_gorge_sea_walls_area-29|Us|E2|/us-32168
+/logbook/crags/avon_gorge_sea_walls_area-29|What about Me?|E2|/what_about_me-32169
+/logbook/crags/avon_gorge_sea_walls_area-29|Um Bongo|E6|/um_bongo-85729
+/logbook/crags/avon_gorge_sea_walls_area-29|Rancho Cucamonga|Unknown|/rancho_cucamonga-32170
+/logbook/crags/avon_gorge_sea_walls_area-29|All Hail the Underdog|Unknown|/all_hail_the_underdog-85730
+/logbook/crags/avon_gorge_sea_walls_area-29|Banshee|E2|/banshee-32171
+/logbook/crags/avon_gorge_sea_walls_area-29|Who Me?|Unknown|/who_me-32172
+/logbook/crags/avon_gorge_sea_walls_area-29|Ice Cream for Crow|Unknown|/ice_cream_for_crow-677814
+/logbook/crags/avon_gorge_sea_walls_area-29|The tuba player didn't make it|Unknown|/the_tuba_player_didnt_make_it-722910
+/logbook/crags/avon_gorge_sea_walls_area-29|The Prince|Unknown|/the_prince-32176
+/logbook/crags/avon_gorge_sea_walls_area-29|Peace|Unknown|/peace-559968
+/logbook/crags/avon_gorge_sea_walls_area-29|Virginia Giuffre|Unknown|/virginia_giuffre-560304
+/logbook/crags/avon_gorge_sea_walls_area-29|The Pauper|Unknown|/the_pauper-560358
+/logbook/crags/avon_gorge_sea_walls_area-29|Savage Fingertip Crack|Unknown|/savage_fingertip_crack-567745
+/logbook/crags/avon_gorge_sea_walls_area-29|Liera's Dyno|Unknown|/lieras_dyno-617555
+/logbook/crags/avon_gorge_sea_walls_area-29|Death By Instagram|Unknown|/death_by_instagram-630132
+/logbook/crags/avon_gorge_sea_walls_area-29|Instagramification|Unknown|/instagramification-630133
+/logbook/crags/avon_gorge_sea_walls_area-29|FOMO|Unknown|/fomo-630134
+/logbook/crags/avon_gorge_sea_walls_area-29|Below the skyline |Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Stayin' Alive|Unknown|/stayin_alive-80022
+/logbook/crags/avon_gorge_sea_walls_area-29|Flexi-time|Unknown|/flexi-time-32173
+/logbook/crags/avon_gorge_sea_walls_area-29|Shake-time|Unknown|/shake-time-32174
+/logbook/crags/avon_gorge_sea_walls_area-29|Banshee II|Unknown|/banshee_ii-502224
+/logbook/crags/avon_gorge_sea_walls_area-29|Chocoholic|Unknown|/chocoholic-32175
+/logbook/crags/avon_gorge_sea_walls_area-29|Big Bertha|Unknown|/big_bertha-48709
+/logbook/crags/avon_gorge_sea_walls_area-29|Red Hot and Chaffeur Driven|Unknown|/red_hot_and_chaffeur_driven-32145
+/logbook/crags/avon_gorge_sea_walls_area-29|Bop till You Drop|Unknown|/bop_till_you_drop-32146
+/logbook/crags/avon_gorge_sea_walls_area-29|Hot Air & Chasin' the Dragon|E2|/hot_air+chasin_the_dragon-32147
+/logbook/crags/avon_gorge_sea_walls_area-29|Altostratus|Unknown|/altostratus-32148
+/logbook/crags/avon_gorge_sea_walls_area-29|Level Headed|Unknown|/level_headed-32177
+/logbook/crags/avon_gorge_sea_walls_area-29|Zero Option|Unknown|/zero_option-32178
+/logbook/crags/avon_gorge_sea_walls_area-29|The Ramp Challenge|E6|/the_ramp_challenge-436884
+/logbook/crags/avon_gorge_sea_walls_area-29|Goat Gully Traverse|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Suck On This|Unknown|/suck_on_this-715302
+/logbook/crags/avon_gorge_sea_walls_area-29|Creamy Treat|Unknown|/creamy_treat-715303
+/logbook/crags/avon_gorge_sea_walls_area-29|Pilgrim's Progress|E6|/pilgrims_progress-32345
+/logbook/crags/avon_gorge_sea_walls_area-29|Sex Symbol for Bunty|E6|/sex_symbol_for_bunty-32346
+/logbook/crags/avon_gorge_sea_walls_area-29|Happy Ending|E2|/happy_ending-715304
+/logbook/crags/avon_gorge_sea_walls_area-29|Understanding Avon|Unknown|/understanding_avon-715305
+/logbook/crags/avon_gorge_sea_walls_area-29|Freshly Laid|Unknown|/freshly_laid-715306
+/logbook/crags/avon_gorge_sea_walls_area-29|Giant Steps|Unknown|/giant_steps-715307
+/logbook/crags/avon_gorge_sea_walls_area-29|Giant Steps - Variation Giant Spike|Unknown|/giant_steps_-_variation_giant_spike-715308
+/logbook/crags/avon_gorge_sea_walls_area-29|Step Right Up|Unknown|/step_right_up-679078
+/logbook/crags/avon_gorge_sea_walls_area-29|Lets Get Metaphysical|VS|/lets_get_metaphysical-715309
+/logbook/crags/avon_gorge_sea_walls_area-29|The Metaphysical Flake|Unknown|/the_metaphysical_flake-32347
+/logbook/crags/avon_gorge_sea_walls_area-29|The Root of Empiricism|Unknown|/the_root_of_empiricism-672103
+/logbook/crags/avon_gorge_sea_walls_area-29|Showwaddywaddy|Unknown|/showwaddywaddy-672375
+/logbook/crags/avon_gorge_sea_walls_area-29|Pegging The Eunoch|HVS|/pegging_the_eunoch-715310
+/logbook/crags/avon_gorge_sea_walls_area-29|Fairwell Lhotse|Unknown|/fairwell_lhotse-715311
+/logbook/crags/avon_gorge_sea_walls_area-29|No King Love Here|Unknown|/no_king_love_here-676201
+/logbook/crags/avon_gorge_sea_walls_area-29|Remote Control|Unknown|/remote_control-715312
+/logbook/crags/avon_gorge_sea_walls_area-29|Perfidious Albion|Unknown|/perfidious_albion-669086
+/logbook/crags/avon_gorge_sea_walls_area-29|For Richard|Unknown|/for_richard-32348
+/logbook/crags/avon_gorge_sea_walls_area-29|My Ancestors|Unknown|/my_ancestors-32349
+/logbook/crags/avon_gorge_sea_walls_area-29|Nuts in May|Unknown|/nuts_in_may-32350
+/logbook/crags/avon_gorge_sea_walls_area-29|Pinball Wizard|E2|/pinball_wizard-474450
+/logbook/crags/avon_gorge_sea_walls_area-29|Statement of Youth|E6|/statement_of_youth-32352
+/logbook/crags/avon_gorge_sea_walls_area-29|Slippery People|Unknown|/slippery_people-32353
+/logbook/crags/avon_gorge_sea_walls_area-29|Calcinogenesis|Unknown|/calcinogenesis-32354
+/logbook/crags/avon_gorge_sea_walls_area-29|Ataloss|E2|/ataloss-502226
+/logbook/crags/avon_gorge_sea_walls_area-29|Dirty Stop Out|Unknown|/dirty_stop_out-32355
+/logbook/crags/avon_gorge_sea_walls_area-29|Vertically Limited|VS|/vertically_limited-32356
+/logbook/crags/avon_gorge_sea_walls_area-29|Irish Girl|Unknown|/irish_girl-32357
+/logbook/crags/avon_gorge_sea_walls_area-29|Death by Chocolate|Unknown|/death_by_chocolate-32358
+/logbook/crags/avon_gorge_sea_walls_area-29|In Loving Memory|Unknown|/in_loving_memory-32359
+/logbook/crags/avon_gorge_sea_walls_area-29|Dead Dreams Fly Flags|Unknown|/dead_dreams_fly_flags-32360
+/logbook/crags/avon_gorge_sea_walls_area-29|Just the little things|Unknown|/just_the_little_things-679349
+/logbook/crags/avon_gorge_sea_walls_area-29|The Crackling|VS|/the_crackling-679350
+/logbook/crags/avon_gorge_sea_walls_area-29|Saint Valentine\u2019s Wall|Unknown|/saint_valentines_wall-679351
+/logbook/crags/avon_gorge_sea_walls_area-29|Saint Valentine\u2019s Borehole |Unknown|/saint_valentines_borehole-679352
+/logbook/crags/avon_gorge_sea_walls_area-29|Dark Crystal|Unknown|/dark_crystal-32351
+/logbook/crags/avon_gorge_sea_walls_area-29|Superstylin'|Unknown|/superstylin-715317
+/logbook/crags/avon_gorge_sea_walls_area-29|The Howling Tombird|VS|/the_howling_tombird-32361
+/logbook/crags/avon_gorge_sea_walls_area-29|Hot Downs Joggers|Unknown|/hot_downs_joggers-715318
+/logbook/crags/avon_gorge_sea_walls_area-29|A Rose Between Two Cu ts|Unknown|/a_rose_between_two_cu_ts-715319
+/logbook/crags/avon_gorge_sea_walls_area-29|Andante|Unknown|/andante-715320
+/logbook/crags/avon_gorge_sea_walls_area-29|Wave to the Inmates|Unknown|/wave_to_the_inmates-715321
+/logbook/crags/avon_gorge_sea_walls_area-29|Kitnova Park|HVS|/kitnova_park-32362
+/logbook/crags/avon_gorge_sea_walls_area-29|The Minute Waltz|E6|/the_minute_waltz-32363
+/logbook/crags/avon_gorge_sea_walls_area-29|Bathos|E2|/bathos-502227
+/logbook/crags/avon_gorge_sea_walls_area-29|Eros|HS|/eros-32364
+/logbook/crags/avon_gorge_sea_walls_area-29|Pathos|E2|/pathos-32365
+/logbook/crags/avon_gorge_sea_walls_area-29|Ares|Unknown|/ares-196707
+/logbook/crags/avon_gorge_sea_walls_area-29|Academic|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Academic Direct|Unknown|/academic_direct-408164
+/logbook/crags/avon_gorge_sea_walls_area-29|Senile Decay|E2|/senile_decay-32373
+/logbook/crags/avon_gorge_sea_walls_area-29|Mellow Yellow|HVS|/mellow_yellow-32374
+/logbook/crags/avon_gorge_sea_walls_area-29|Pandemic (Eliminate)|Unknown|/pandemic_eliminate-618709
+/logbook/crags/avon_gorge_sea_walls_area-29|Unacademic|Unknown|/unacademic-715313
+/logbook/crags/avon_gorge_sea_walls_area-29|Academic Indirect|Unknown|/academic_indirect-715314
+/logbook/crags/avon_gorge_sea_walls_area-29|Unacademic Direct|Unknown|/unacademic_direct-715315
+/logbook/crags/avon_gorge_sea_walls_area-29|I|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Shiner|Unknown|/shiner-502228
+/logbook/crags/avon_gorge_sea_walls_area-29|We've had a Main B Bus Undervolt|Unknown|/weve_had_a_main_b_bus_undervolt-675025
+/logbook/crags/avon_gorge_sea_walls_area-29|Thin End of the Wedgy|Unknown|/thin_end_of_the_wedgy-669020
+/logbook/crags/avon_gorge_sea_walls_area-29|Mature Avon|Unknown|/mature_avon-669021
+/logbook/crags/avon_gorge_sea_walls_area-29|Cheesy Bell Lend|Unknown|/cheesy_bell_lend-669025
+/logbook/crags/avon_gorge_sea_walls_area-29|Extra Immature|Unknown|/extra_immature-669026
+/logbook/crags/avon_gorge_sea_walls_area-29|Gorilla Glue|Unknown|/gorilla_glue-669027
+/logbook/crags/avon_gorge_sea_walls_area-29|God save the queen|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|The Johnny Rotten Row|Unknown|/the_johnny_rotten_row-669509
+/logbook/crags/avon_gorge_sea_walls_area-29|Kitnova Park (Sport)|Unknown|/kitnova_park_sport-715322
+/logbook/crags/avon_gorge_sea_walls_area-29|Too much of a boy for Crazy Town|Unknown|/too_much_of_a_boy_for_crazy_town-670611
+/logbook/crags/avon_gorge_sea_walls_area-29|Death to the Supreme Leader|Unknown|/death_to_the_supreme_leader-677696
+/logbook/crags/avon_gorge_sea_walls_area-29|Get Up Offa That Thing|Unknown|/get_up_offa_that_thing-677697
+/logbook/crags/avon_gorge_sea_walls_area-29|Happy 'cause I'm Going Home|HVS|/happy_cause_im_going_home-32375
+/logbook/crags/avon_gorge_sea_walls_area-29|Dogging the Scene|Unknown|/dogging_the_scene-679077
+/logbook/crags/avon_gorge_sea_walls_area-29|Serenity Crack|Unknown|/serenity_crack-32376
+/logbook/crags/avon_gorge_sea_walls_area-29|Idiots Dream|Unknown|/idiots_dream-715323
+/logbook/crags/avon_gorge_sea_walls_area-29|Fit to Drott|Unknown|/fit_to_drott-32377
+/logbook/crags/avon_gorge_sea_walls_area-29|Earthmover|E2|/earthmover-32378
+/logbook/crags/avon_gorge_sea_walls_area-29|Hymac|Unknown|/hymac-32379
+/logbook/crags/avon_gorge_sea_walls_area-29|Overkill is Under-rated|Unknown|/overkill_is_under-rated-502229
+/logbook/crags/avon_gorge_sea_walls_area-29|JCB|Unknown|/jcb-32380
+/logbook/crags/avon_gorge_sea_walls_area-29|Social Construction|Unknown|/social_construction-670497
+/logbook/crags/avon_gorge_sea_walls_area-29|Build Back Better|Unknown|/build_back_better-670498
+/logbook/crags/avon_gorge_sea_walls_area-29|The Deconstruction Sight|Unknown|/the_deconstruction_sight-670612
+/logbook/crags/avon_gorge_sea_walls_area-29|Open Project|Unknown|/open_project-671068
+/logbook/crags/avon_gorge_sea_walls_area-29|Eric Exsykes|Unknown|/eric_exsykes-32381
+/logbook/crags/avon_gorge_sea_walls_area-29|Hatti Jacques|E2|/hatti_jacques-32382
+/logbook/crags/avon_gorge_sea_walls_area-29|Sod's Law|Unknown|/sods_law-32383
+/logbook/crags/avon_gorge_sea_walls_area-29|Rock Steady|Unknown|/rock_steady-677813
+/logbook/crags/avon_gorge_sea_walls_area-29|Entrail|HVS|/entrail-32386
+/logbook/crags/avon_gorge_sea_walls_area-29|Just Veering Away|Unknown|/just_veering_away-654578
+/logbook/crags/avon_gorge_sea_walls_area-29|Just Searing Away|Unknown|/just_searing_away-32387
+/logbook/crags/avon_gorge_sea_walls_area-29|Psyched Seared and Delivered|Unknown|/psyched_seared_and_delivered-672759
+/logbook/crags/avon_gorge_sea_walls_area-29|Oil on Canvas|Unknown|/oil_on_canvas-32394
+/logbook/crags/avon_gorge_sea_walls_area-29|Eleven Years On|Unknown|/eleven_years_on-32395
+/logbook/crags/avon_gorge_sea_walls_area-29|Thirty-One Years|Unknown|/thirty-one_years-502231
+/logbook/crags/avon_gorge_sea_walls_area-29|The Pact|Unknown|/the_pact-32396
+/logbook/crags/avon_gorge_sea_walls_area-29|Thanatos|HVS|/thanatos-32397
+/logbook/crags/avon_gorge_sea_walls_area-29|Intestines|Unknown|/intestines-32398
+/logbook/crags/avon_gorge_sea_walls_area-29|Cause without a Rebel|Unknown|/cause_without_a_rebel-32400
+/logbook/crags/avon_gorge_sea_walls_area-29|One Rawl for All|Unknown|/one_rawl_for_all-32399
+/logbook/crags/avon_gorge_sea_walls_area-29|Midnight Express|E6|/midnight_express-32401
+/logbook/crags/avon_gorge_sea_walls_area-29|Marvin the Marmot|E6|/marvin_the_marmot-502232
+/logbook/crags/avon_gorge_sea_walls_area-29|To Be Is Not to Bolt|Unknown|/to_be_is_not_to_bolt-32402
+/logbook/crags/avon_gorge_sea_walls_area-29|Train in the Distance|E6|/train_in_the_distance-32403
+/logbook/crags/avon_gorge_sea_walls_area-29|Tunnel Vision|Unknown|/tunnel_vision-32404
+/logbook/crags/avon_gorge_sea_walls_area-29|The Housing (Cave Dwellers) Act 1000 BC|Unknown|/the_housing_cave_dwellers_act_1000_bc-32405
+/logbook/crags/avon_gorge_sea_walls_area-29|The Beat|Unknown|/the_beat-32406
+/logbook/crags/avon_gorge_sea_walls_area-29|Starless and Bible Black|Unknown|/starless_and_bible_black-86155
+/logbook/crags/avon_gorge_sea_walls_area-29|Small or Nothing|Unknown|/small_or_nothing-32407
+/logbook/crags/avon_gorge_sea_walls_area-29|Whizz for Atoms|Unknown|/whizz_for_atoms-32408
+/logbook/crags/avon_gorge_sea_walls_area-29|Paradiddle|Unknown|/paradiddle-32409
+/logbook/crags/avon_gorge_sea_walls_area-29|Done Years Ago|E2|/done_years_ago-32410
+/logbook/crags/avon_gorge_sea_walls_area-29|Slurp|HVS|/slurp-32411
+/logbook/crags/avon_gorge_sea_walls_area-29|5\/8 Lick|E2|/58_lick-502233
+/logbook/crags/avon_gorge_sea_walls_area-29|Leap Year with Larry|Unknown|/leap_year_with_larry-502234
+/logbook/crags/avon_gorge_sea_walls_area-29|Lost Atoms|Unknown|/lost_atoms-32412
+/logbook/crags/avon_gorge_sea_walls_area-29|The Melancholy of Departure|Unknown|/the_melancholy_of_departure-32413
+/logbook/crags/avon_gorge_sea_walls_area-29|Wretch|E2|/wretch-32414
+/logbook/crags/avon_gorge_sea_walls_area-29|Puke Direct Start|Unknown|/puke_direct_start-502236
+/logbook/crags/avon_gorge_sea_walls_area-29|S'All Over|Unknown|/sall_over-32415
+/logbook/crags/avon_gorge_sea_walls_area-29|Puke|HVS|/puke-32416
+/logbook/crags/avon_gorge_sea_walls_area-29|A Grand Day Out|VD|/a_grand_day_out-670712
+/logbook/crags/avon_gorge_sea_walls_area-29|Salt Fish|VS|/salt_fish-716376
+/logbook/crags/avon_gorge_sea_walls_area-29|Whore Fight|Unknown|/whore_fight-716372
+/logbook/crags/avon_gorge_sea_walls_area-29|Dildo Ledge|Unknown|/dildo_ledge-716373
+/logbook/crags/avon_gorge_sea_walls_area-29|The Brian Johnstown Massacre|Unknown|/the_brian_johnstown_massacre-716374
+/logbook/crags/avon_gorge_sea_walls_area-29|Wrap Up My Iniquity|Unknown|/wrap_up_my_iniquity-689324
+/logbook/crags/avon_gorge_sea_walls_area-29|Particles|Unknown|/particles-32418
+/logbook/crags/avon_gorge_sea_walls_area-29|Ashes to Ashes|Unknown|/ashes_to_ashes-715324
+/logbook/crags/avon_gorge_sea_walls_area-29|The Cover Up|Unknown|/the_cover_up-32436
+/logbook/crags/avon_gorge_sea_walls_area-29|Indecent Exposure|E2|/indecent_exposure-32437
+/logbook/crags/avon_gorge_sea_walls_area-29|Wobbly Bits|Unknown|/wobbly_bits-32438
+/logbook/crags/avon_gorge_sea_walls_area-29|The Trembling|Unknown|/the_trembling-32439
+/logbook/crags/avon_gorge_sea_walls_area-29|Kiev|E2|/kiev-502238
+/logbook/crags/avon_gorge_sea_walls_area-29|Rave On Avon|Unknown|/rave_on_avon-715325
+/logbook/crags/avon_gorge_sea_walls_area-29|Tremors|Unknown|/tremors-32441
+/logbook/crags/avon_gorge_sea_walls_area-29|Shakin' All Over|Unknown|/shakin_all_over-32440
+/logbook/crags/avon_gorge_sea_walls_area-29|False Alarms|Unknown|/false_alarms-32442
+/logbook/crags/avon_gorge_sea_walls_area-29|Gold Star|Unknown|/gold_star-32443
+/logbook/crags/avon_gorge_sea_walls_area-29|Quick Flash|Unknown|/quick_flash-32444
+/logbook/crags/avon_gorge_sea_walls_area-29|The Featherless Biped|Unknown|/the_featherless_biped-32445
+/logbook/crags/avon_gorge_sea_walls_area-29|Hugh's Groove|Unknown|/hughs_groove-64619
+/logbook/crags/avon_gorge_sea_walls_area-29|Bisector Wall|Unknown|/bisector_wall-207462
+/logbook/crags/avon_gorge_sea_walls_area-29|Exterminating Angel|Unknown|/exterminating_angel-45179
+/logbook/crags/avon_gorge_sea_walls_area-29|Eeny meeny miny mo|Unknown|/[]
+/logbook/crags/avon_gorge_sea_walls_area-29|Who's Wall?|Unknown|/whos_wall-32446
+/logbook/crags/avon_gorge_sea_walls_area-29|Defining Limits|E6|/defining_limits-32447
+/logbook/crags/avon_gorge_sea_walls_area-29|Terror Firma|Unknown|/terror_firma-32448
+/logbook/crags/avon_gorge_sea_walls_area-29|Comic Relief|E2|/comic_relief-32449
+/logbook/crags/avon_gorge_sea_walls_area-29|Pongo Sid Chilli|Unknown|/pongo_sid_chilli-32450
+/logbook/crags/avon_gorge_sea_walls_area-29|Gronk|VS|/gronk-32451
+/logbook/crags/avon_gorge_sea_walls_area-29|Morphe-Gronk|HS|/morphe-gronk-651661
+/logbook/crags/avon_gorge_sea_walls_area-29|Morpheus|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Bastardized|Unknown|/bastardized-32452
+/logbook/crags/avon_gorge_sea_walls_area-29|Death or Dishonour|Unknown|/death_or_dishonour-32453
+/logbook/crags/avon_gorge_sea_walls_area-29|Anything but Over|Unknown|/anything_but_over-502249
+/logbook/crags/avon_gorge_sea_walls_area-29|Exterminating 5b Leaders|Unknown|/exterminating_5b_leaders-32454
+/logbook/crags/avon_gorge_sea_walls_area-29|Sleepwalk|S|/sleepwalk-32253
+/logbook/crags/avon_gorge_sea_walls_area-29|Mobius|HVS|/mobius-32455
+/logbook/crags/avon_gorge_sea_walls_area-29|Nightcap|HVS|/nightcap-32456
+/logbook/crags/avon_gorge_sea_walls_area-29|Nitecap Start|Unknown|/nitecap_start-111370
+/logbook/crags/avon_gorge_sea_walls_area-29|To Be Taken Quietly in Sleep|E6|/to_be_taken_quietly_in_sleep-502250
+/logbook/crags/avon_gorge_sea_walls_area-29|Pants Choice|Unknown|/pants_choice-43626
+/logbook/crags/avon_gorge_sea_walls_area-29|King Choice|Unknown|/king_choice-43627
+/logbook/crags/avon_gorge_sea_walls_area-29|Introvert's Choice|Unknown|/introverts_choice-502251
+/logbook/crags/avon_gorge_sea_walls_area-29|Voter's Choice|Unknown|/voters_choice-601805
+/logbook/crags/avon_gorge_sea_walls_area-29|Jon's Dyno|Unknown|/jons_dyno-502252
+/logbook/crags/avon_gorge_sea_walls_area-29|One for the Road|Unknown|/one_for_the_road-502253
+/logbook/crags/avon_gorge_sea_walls_area-29|PG Tips|Unknown|/pg_tips-86613
+/logbook/crags/avon_gorge_sea_walls_area-29|The Ar\u00eate|Unknown|/the_arete-32478
+/logbook/crags/avon_gorge_sea_walls_area-29|The Ar\u00eate|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|The Squirrel's Heart|Unknown|/the_squirrels_heart-212459
+/logbook/crags/avon_gorge_sea_walls_area-29|Ace of Diamonds|Unknown|/ace_of_diamonds-617538
+/logbook/crags/avon_gorge_sea_walls_area-29|Crystal Tips|Unknown|/crystal_tips-32479
+/logbook/crags/avon_gorge_sea_walls_area-29|Most Choice|Unknown|/most_choice-44596
+/logbook/crags/avon_gorge_sea_walls_area-29|The Choice Traverse|Unknown|/the_choice_traverse-32481
+/logbook/crags/avon_gorge_sea_walls_area-29|Connoisseur's Choice|E2|/connoisseurs_choice-32496
+/logbook/crags/avon_gorge_sea_walls_area-29|Connoisseur's Choice|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Punk's Choice|Unknown|/punks_choice-32497
+/logbook/crags/avon_gorge_sea_walls_area-29|Critic's Choice|Unknown|/critics_choice-32498
+/logbook/crags/avon_gorge_sea_walls_area-29|Critical Path|Unknown|/critical_path-715326
+/logbook/crags/avon_gorge_sea_walls_area-29|The Tin Drum|HVS|/the_tin_drum-32499
+/logbook/crags/avon_gorge_sea_walls_area-29|Ffoeg's Folly|E2|/ffoegs_folly-32501
+/logbook/crags/avon_gorge_sea_walls_area-29|Ffoeg's Folly (P1)|HVS|/ffoegs_folly_p1-213781
+/logbook/crags/avon_gorge_sea_walls_area-29|Coyote Ugly|E2|/coyote_ugly-66936
+/logbook/crags/avon_gorge_sea_walls_area-29|Last Chance|Unknown|/last_chance-32502
+/logbook/crags/avon_gorge_sea_walls_area-29|Last Slip|Unknown|/last_slip-32464
+/logbook/crags/avon_gorge_sea_walls_area-29|Last Slip Direct Start|Unknown|/last_slip_direct_start-32503
+/logbook/crags/avon_gorge_sea_walls_area-29|Gymslip|Unknown|/gymslip-32505
+/logbook/crags/avon_gorge_sea_walls_area-29|Gymslip Traverse|Unknown|/gymslip_traverse-32506
+/logbook/crags/avon_gorge_sea_walls_area-29|Little Nedwin|Unknown|/little_nedwin-478114
+/logbook/crags/avon_gorge_sea_walls_area-29|Operational Reasons|E2|/operational_reasons-43625
+/logbook/crags/avon_gorge_sea_walls_area-29|Shits and Giggles|Unknown|/shits_and_giggles-32504
+/logbook/crags/avon_gorge_sea_walls_area-29|Every Smile You Fake|E6|/every_smile_you_fake-32523
+/logbook/crags/avon_gorge_sea_walls_area-29|Fast Grip|E2|/fast_grip-32524
+/logbook/crags/avon_gorge_sea_walls_area-29|Vulcan Death Grip|Unknown|/vulcan_death_grip-32525
+/logbook/crags/avon_gorge_sea_walls_area-29|Chameleon Feet|Unknown|/chameleon_feet-32526
+/logbook/crags/avon_gorge_sea_walls_area-29|Pins and Needles|Unknown|/pins_and_needles-32527
+/logbook/crags/avon_gorge_sea_walls_area-29|Unusual Places to Visit Before You Die|Unknown|/unusual_places_to_visit_before_you_die-502259
+/logbook/crags/avon_gorge_sea_walls_area-29|Oscar|Unknown|/oscar-32500
+/logbook/crags/avon_gorge_sea_walls_area-29|Lord Bafta|Unknown|/lord_bafta-502260
+/logbook/crags/avon_gorge_sea_walls_area-29|Nocturnal Emissions|HS|/nocturnal_emissions-678247
+/logbook/crags/avon_gorge_sea_walls_area-29|Nightmare|S|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Nightmare Direct Finish|VS|/nightmare_direct_finish-187360
+/logbook/crags/avon_gorge_sea_walls_area-29|Mesatherm|Unknown|/mesatherm-602593
+/logbook/crags/avon_gorge_sea_walls_area-29|Before Bloc|Unknown|/before_bloc-502261
+/logbook/crags/avon_gorge_sea_walls_area-29|Slow Motion|VS|/slow_motion-153537
+/logbook/crags/avon_gorge_sea_walls_area-29|One Scream's Enough|Unknown|/one_screams_enough-32528
+/logbook/crags/avon_gorge_sea_walls_area-29|One Scream's Enough Direct|Unknown|/one_screams_enough_direct-32529
+/logbook/crags/avon_gorge_sea_walls_area-29|Edgemaster|E6|/edgemaster-32533
+/logbook/crags/avon_gorge_sea_walls_area-29|Eliminate Master|Unknown|/eliminate_master-447539
+/logbook/crags/avon_gorge_sea_walls_area-29|Padansac|Unknown|/13]
+/logbook/crags/avon_gorge_sea_walls_area-29|Just So|Unknown|/just_so-32535
+/logbook/crags/avon_gorge_sea_walls_area-29|The Quiet Mind|E6|/the_quiet_mind-32536
+/logbook/crags/avon_gorge_sea_walls_area-29|Solution Pollution|Unknown|/solution_pollution-32537
+/logbook/crags/avon_gorge_sea_walls_area-29|Feed Your Head (Eclipsed)|Unknown|/feed_your_head_eclipsed-32538
+/logbook/crags/avon_gorge_sea_walls_area-29|Partial Eclipse|Unknown|/partial_eclipse-32539
+/logbook/crags/avon_gorge_sea_walls_area-29|Stretcher|Unknown|/stretcher-32540
+/logbook/crags/avon_gorge_sea_walls_area-29|Simian|HVS|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Humdinger Jury|Unknown|/humdinger_jury-32541
+/logbook/crags/avon_gorge_sea_walls_area-29|Daydream|VS|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Hi|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Zebedee|HVS|/zebedee-32543
+/logbook/crags/avon_gorge_sea_walls_area-29|Don't Slip|Unknown|/dont_slip-32544
+/logbook/crags/avon_gorge_sea_walls_area-29|The Aardvark and the Ferret|E6|/the_aardvark_and_the_ferret-32545
+/logbook/crags/avon_gorge_sea_walls_area-29|SOS|Unknown|/sos-32546
+/logbook/crags/avon_gorge_sea_walls_area-29|299 With a Conservatory|VS|/299_with_a_conservatory-737893
+/logbook/crags/avon_gorge_sea_walls_area-29|Syph|S|/syph-32547
+/logbook/crags/avon_gorge_sea_walls_area-29|Idleburger Buttress|VD|/idleburger_buttress-32548
+/logbook/crags/avon_gorge_sea_walls_area-29|Tigger|HS|/tigger-446240
+/logbook/crags/avon_gorge_sea_walls_area-29|Smoove Groove|Unknown|/smoove_groove-32549
+/logbook/crags/avon_gorge_sea_walls_area-29|The Independent Route|Unknown|/the_independent_route-32550
+/logbook/crags/avon_gorge_sea_walls_area-29|5b Groove|Unknown|/5b_groove-32551
+/logbook/crags/avon_gorge_sea_walls_area-29|Floating Voter|VS|/floating_voter-32552
+/logbook/crags/avon_gorge_sea_walls_area-29|5b Wall|Unknown|/5b_wall-32553
+/logbook/crags/avon_gorge_sea_walls_area-29|RG Traverse|Unknown|/rg_traverse-229635
+/logbook/crags/avon_gorge_sea_walls_area-29|Jasper|HVS|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Jasper's Roof|E2|/jaspers_roof-468535
+/logbook/crags/avon_gorge_sea_walls_area-29|Jumping Carrots|VS|/jumping_carrots-32555
+/logbook/crags/avon_gorge_sea_walls_area-29|Jasper Carrott|E2|/jasper_carrott-466539
+/logbook/crags/avon_gorge_sea_walls_area-29|Casper|VS|/casper-301857
+/logbook/crags/avon_gorge_sea_walls_area-29|Jumping Beans|E2|/jumping_beans-32556
+/logbook/crags/avon_gorge_sea_walls_area-29|Smoove Fridge Direct|HVS|/smoove_fridge_direct-765954
+/logbook/crags/avon_gorge_sea_walls_area-29|Flash Gordon Light|HVS|/flash_gordon_light-275313
+/logbook/crags/avon_gorge_sea_walls_area-29|Flash Gordon's Trip to Mars|Unknown|/flash_gordons_trip_to_mars-32557
+/logbook/crags/avon_gorge_sea_walls_area-29|King of the Impossible|Unknown|/king_of_the_impossible-502265
+/logbook/crags/avon_gorge_sea_walls_area-29|Anorexic Little Weirdo|Unknown|/anorexic_little_weirdo-32258
+/logbook/crags/avon_gorge_sea_walls_area-29|The Bulimic Finish|Unknown|/the_bulimic_finish-32558
+/logbook/crags/avon_gorge_sea_walls_area-29|Hands Up Who Wants to Die?|Unknown|/hands_up_who_wants_to_die-32559
+/logbook/crags/avon_gorge_sea_walls_area-29|Flash Harry|HVS|/flash_harry-32560
+/logbook/crags/avon_gorge_sea_walls_area-29|Another Little Number|Unknown|/another_little_number-32561
+/logbook/crags/avon_gorge_sea_walls_area-29|Imensa|E2|/imensa-32562
+/logbook/crags/avon_gorge_sea_walls_area-29|For the Love of Ivy|VS|/for_the_love_of_ivy-40198
+/logbook/crags/avon_gorge_sea_walls_area-29|Men Talking Goats|Unknown|/men_talking_goats-362930
+/logbook/crags/avon_gorge_sea_walls_area-29|Agua Colorado|Unknown|/agua_colorado-40199
+/logbook/crags/avon_gorge_sea_walls_area-29|Skulking Agent|Unknown|/skulking_agent-468536
+/logbook/crags/avon_gorge_sea_walls_area-29|Bulking Agent|Unknown|/15]
+/logbook/crags/avon_gorge_sea_walls_area-29|Bulking Agent sit start|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Bulking agent SS bitter and twisted link|Unknown|/bulking_agent_ss_bitter_and_twisted_link-731086
+/logbook/crags/avon_gorge_sea_walls_area-29|Bitter and Twisted|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Bitter and Twisted Traverse|Unknown|/bitter_and_twisted_traverse-147672
+/logbook/crags/avon_gorge_sea_walls_area-29|Dinosaur Beach|Unknown|/dinosaur_beach-37579
+/logbook/crags/avon_gorge_sea_walls_area-29|Jurassic Lark|Unknown|/jurassic_lark-44527
+/logbook/crags/avon_gorge_sea_walls_area-29|Brundle-fly Fusion|Unknown|/brundle-fly_fusion-44528
+/logbook/crags/avon_gorge_sea_walls_area-29|Ska is the Limit|Unknown|/ska_is_the_limit-502266
+/logbook/crags/avon_gorge_sea_walls_area-29|Fry Crispin Fry|Unknown|/fry_crispin_fry-44529
+/logbook/crags/avon_gorge_sea_walls_area-29|Sand Sapphire|Unknown|/sand_sapphire-44530
+/logbook/crags/avon_gorge_sea_walls_area-29|The Harry Brown Start|Unknown|/the_harry_brown_start-502267
+/logbook/crags/avon_gorge_sea_walls_area-29|Combined Tactics|Unknown|/combined_tactics-44531
+/logbook/crags/avon_gorge_sea_walls_area-29|Zildjan (Trad)|Unknown|/zildjan_trad-44532
+/logbook/crags/avon_gorge_sea_walls_area-29|Zildjan Direct|Unknown|/15]
+/logbook/crags/avon_gorge_sea_walls_area-29|Zildjan (Sport)|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Paiste 2002|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Cymbeline|Unknown|/15]
+/logbook/crags/avon_gorge_sea_walls_area-29|Cymbal the Pun|Unknown|/cymbal_the_pun-44535
+/logbook/crags/avon_gorge_sea_walls_area-29|The Echo|E2|/the_echo-44536
+/logbook/crags/avon_gorge_sea_walls_area-29|Full Metal Cymbal|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Brutal Dub|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Ready and Waiting|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|The Fury|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Product of an Unsound Mind|Unknown|/product_of_an_unsound_mind-44541
+/logbook/crags/avon_gorge_sea_walls_area-29|Exhumation|Unknown|/exhumation-44542
+/logbook/crags/avon_gorge_sea_walls_area-29|A Drop in the Ocean of Decay|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|A drop in the Ocean of Exhumation|Unknown|/a_drop_in_the_ocean_of_exhumation-730583
+/logbook/crags/avon_gorge_sea_walls_area-29|Manoir de Kerlut|Unknown|/manoir_de_kerlut-44544
+/logbook/crags/avon_gorge_sea_walls_area-29|Manoir de Kerlut (sport)|Unknown|/manoir_de_kerlut_sport-733463
+/logbook/crags/avon_gorge_sea_walls_area-29|Mensa|Unknown|/mensa-44545
+/logbook/crags/avon_gorge_sea_walls_area-29|Crowhurst's Folly|Unknown|/crowhursts_folly-502268
+/logbook/crags/avon_gorge_sea_walls_area-29|Shiva|Unknown|/shiva-44546
+/logbook/crags/avon_gorge_sea_walls_area-29|The Happy Trundlers|Unknown|/the_happy_trundlers-44459
+/logbook/crags/avon_gorge_sea_walls_area-29|Body Bag|Unknown|/body_bag-502269
+/logbook/crags/avon_gorge_sea_walls_area-29|Bushmen Don't Surf|Unknown|/bushmen_dont_surf-44547
+/logbook/crags/avon_gorge_sea_walls_area-29|Bushmen... (Chepstow Zombie Finish)|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|System Z|Unknown|/system_z-44548
+/logbook/crags/avon_gorge_sea_walls_area-29|Finish of '68|Unknown|/finish_of_68-502270
+/logbook/crags/avon_gorge_sea_walls_area-29|Motivated Thinking|E2|/motivated_thinking-362929
+/logbook/crags/avon_gorge_sea_walls_area-29|Just This Once|Unknown|/just_this_once-44549
+/logbook/crags/avon_gorge_sea_walls_area-29|Quit Talking and Start Chalking|Unknown|/quit_talking_and_start_chalking-44550
+/logbook/crags/avon_gorge_sea_walls_area-29|No Crag for Old Men|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|No CSC|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|En Trend|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|No Strange Delight|Unknown|/no_strange_delight-44551
+/logbook/crags/avon_gorge_sea_walls_area-29|Stammheim|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Badder Beginning|Unknown|/badder_beginning-475253
+/logbook/crags/avon_gorge_sea_walls_area-29|The Gobbler|E2|/the_gobbler-44553
+/logbook/crags/avon_gorge_sea_walls_area-29|Dependency|Unknown|/dependency-502271
+/logbook/crags/avon_gorge_sea_walls_area-29|Van Dieman's Land|Unknown|/van_diemans_land-44554
+/logbook/crags/avon_gorge_sea_walls_area-29|Night of the Comic Dead|HVS|/night_of_the_comic_dead-44555
+/logbook/crags/avon_gorge_sea_walls_area-29|Pastiche|HVS|/pastiche-43985
+/logbook/crags/avon_gorge_sea_walls_area-29|Fat|Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Heartbeat City|Unknown|/heartbeat_city-44556
+/logbook/crags/avon_gorge_sea_walls_area-29|Shale We Dance?|Unknown|/shale_we_dance-44557
+/logbook/crags/avon_gorge_sea_walls_area-29|Love and Affection|Unknown|/love_and_affection-44558
+/logbook/crags/avon_gorge_sea_walls_area-29|Sugar and Spice|E2|/sugar_and_spice-44559
+/logbook/crags/avon_gorge_sea_walls_area-29|Puppydog Tails|Unknown|/puppydog_tails-327584
+/logbook/crags/avon_gorge_sea_walls_area-29|End of the Line?|Unknown|/end_of_the_line-44560
+/logbook/crags/avon_gorge_sea_walls_area-29|Spleen Fury and the Rockheads|E2|/spleen_fury_and_the_rockheads-338986
+/logbook/crags/avon_gorge_sea_walls_area-29|Private and Confidential|E2|/private_and_confidential-44561
+/logbook/crags/avon_gorge_sea_walls_area-29|The New Quarrymen|Unknown|/the_new_quarrymen-44562
+/logbook/crags/avon_gorge_sea_walls_area-29|Act of Faith|Unknown|/act_of_faith-44564
+/logbook/crags/avon_gorge_sea_walls_area-29|God |Unknown|/slug
+/logbook/crags/avon_gorge_sea_walls_area-29|Blasphemy|Unknown|/blasphemy-44565
+/logbook/crags/avon_gorge_sea_walls_area-29|Urban Myth|E2|/urban_myth-44566
+/logbook/crags/avon_gorge_sea_walls_area-29|JHC|E2|/jhc-502272
+/logbook/crags/avon_gorge_sea_walls_area-29|Pumping Station|VS|/pumping_station-44568
+/logbook/crags/avon_gorge_sea_walls_area-29|XK V8|VS|/xk_v8-44569
+/logbook/crags/avon_gorge_sea_walls_area-29|The Shortest Sport Route in the Gorge|Unknown|/the_shortest_sport_route_in_the_gorge-615171
+/logbook/crags/avon_gorge_sea_walls_area-29|Love the city|Unknown|/love_the_city-757887
+/logbook/crags/avon_gorge_sea_walls_area-29|Loony Tunes|Unknown|/loony_tunes-44570
+/logbook/crags/avon_gorge_sea_walls_area-29|The Cancerous Tropic|Unknown|/the_cancerous_tropic-44571
+/logbook/crags/avon_gorge_sea_walls_area-29|Made for Fashion|E2|/made_for_fashion-44572
+/logbook/crags/avon_gorge_sea_walls_area-29|The New New Quarry Traverse|Unknown|/the_new_new_quarry_traverse-44676
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Rusty Back Fern|VS|/rusty_back_fern-715415
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Stinky Bishop|VS|/stinky_bishop-715416
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Stinky Bishop Variation|E2|/stinky_bishop_variation-715419
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Ted|Unknown|/ted-690847
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Man-of-war|Unknown|/man-of-war-692823
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Grovel of Life|Unknown|/the_grovel_of_life-715421
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Tarzan the Magnificent|Unknown|/tarzan_the_magnificent-33459
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Big Project|Project|/big_project-715424
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Forty-five Degrees in the Shade|Unknown|/forty-five_degrees_in_the_shade-33460
+/logbook/crags/avon_gorge_suspension_bridge_area-47|HMS Victory|Unknown|/hms_victory-693895
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Blucher|E6|/the_blucher-33462
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Fickle Finger of Fate|Unknown|/fickle_finger_of_fate-33461
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Burden of Wet Dreams|Project|/burden_of_wet_dreams-715430
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Blucher|Unknown|/the_blucher-734443
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Fickle Finger of Fate (Aid)|Unknown|/fickle_finger_of_fate_aid-755474
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Six Trains Running|Unknown|/six_trains_running-577477
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The New Normal|Unknown|/the_new_normal-576737
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Still Missing|Unknown|/still_missing-575599
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Remembered Forever|Unknown|/remembered_forever-576092
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Gammer Gurton's Needle|Unknown|/gammer_gurtons_needle-30364
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Diccon of Bedlam|Unknown|/diccon_of_bedlam-502339
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Hodge's Pin|VS|/hodges_pin-30365
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Hodge's Pin Direct Start|E2|/hodges_pin_direct_start-502338
+/logbook/crags/avon_gorge_suspension_bridge_area-47|A Sticht in Time|Unknown|/a_sticht_in_time-30366
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Red Thread|E2|/red_thread-30367
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Twenties from Heaven|Unknown|/twenties_from_heaven-451547
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Blue Jay Way|Unknown|/blue_jay_way-30368
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Mike Harvey|Unknown|/mike_harvey-451548
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Fred Bennett|Unknown|/fred_bennett-451549
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Harvey's Wall Traverse|Unknown|/harveys_wall_traverse-44682
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Botanist's Dilemma|D|/botanists_dilemma-30399
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Pocket Rocket|Unknown|/pocket_rocket-715445
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Rocket Man|Unknown|/rocket_man-30402
+/logbook/crags/avon_gorge_suspension_bridge_area-47|It's Not Rocket Salad|Unknown|/its_not_rocket_salad-502340
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Sweat Shop|Unknown|/sweat_shop-30401
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Sinead|Unknown|/sinead-715442
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Herbsman Shotgun|Unknown|/herbsman_shotgun-30405
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Tarred and Feathered|Unknown|/tarred_and_feathered-715446
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Convexity|E2|/convexity-30406
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Stranded|S|/stranded-30407
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Head Wound|Unknown|/head_wound-715447
+/logbook/crags/avon_gorge_suspension_bridge_area-47|A Huge Ever-growing|Unknown|/slug
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Rock Out|Unknown|/rock_out-715449
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Groovy Baby|VS|/groovy_baby-715450
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Out Come the Wolves|Unknown|/out_come_the_wolves-715451
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Wrong Glasses|Unknown|/the_wrong_glasses-502341
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Code Red|HVS|/code_red-715452
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Red Smiley|Unknown|/red_smiley-682597
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Four on the Floor|E2|/four_on_the_floor-502342
+/logbook/crags/avon_gorge_suspension_bridge_area-47|A Quick Rolll Please|Unknown|/a_quick_rolll_please-502343
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Flummoxy Slab|Unknown|/flummoxy_slab-682598
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Better in 9\/8|Unknown|/better_in_98-502344
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Nothing Untoward|Unknown|/nothing_untoward-715453
+/logbook/crags/avon_gorge_suspension_bridge_area-47|A1 Funk|HVS|/a1_funk-400668
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Insomnia House Party|Unknown|/15]
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Ali G Minor|Unknown|/ali_g_minor-502345
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Rhythm Method|VS|/the_rhythm_method-715454
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Rimshot|HVS|/rimshot-715455
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Red Wall Voter |Unknown|/red_wall_voter-682601
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Four Pockets|VS|/four_pockets-715457
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Red Mist|Unknown|/red_mist-715458
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Liverbird Buttress|S|/liverbird_buttress-30408
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Nil By Mouth|Unknown|/nil_by_mouth-715459
+/logbook/crags/avon_gorge_suspension_bridge_area-47|T290|E2|/t290-502346
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Spanish Castle Magic|Unknown|/spanish_castle_magic-502347
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Blunt Force Trauma|Unknown|/blunt_force_trauma-715460
+/logbook/crags/avon_gorge_suspension_bridge_area-47|This is Your Captain Speaking|Unknown|/this_is_your_captain_speaking-715467
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Defence|Unknown|/defence-715468
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Offence|Unknown|/offence-715469
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Red Roses and Pink Champagne|Unknown|/red_roses_and_pink_champagne-502348
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Study Eliminate|Unknown|/study_eliminate-429041
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Study Leave|Unknown|/study_leave-30409
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Ronnie the Rocket|Unknown|/ronnie_the_rocket-502349
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Obscurata|Unknown|/obscurata-30410
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Memories|Unknown|/memories-30411
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Little Red Rodney|E2|/little_red_rodney-30412
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Iron Curtain|Unknown|/iron_curtain-30719
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Crimson and Clover|Unknown|/crimson_and_clover-30720
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Feelin' Stronger Every Day|Unknown|/feelin_stronger_every_day-30721
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Vermillion Vagabond|Unknown|/vermillion_vagabond-30722
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Rockers' Revenge|VS|/rockers_revenge-30723
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Toothpaste|S|/toothpaste-30724
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Magnetic Grey|Unknown|/magnetic_grey-30725
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Freddie's Dreaming|Unknown|/freddies_dreaming-502351
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Red Alert|Unknown|/red_alert-30726
+/logbook/crags/avon_gorge_suspension_bridge_area-47|All Systems|Unknown|/all_systems-30727
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Spinor|Unknown|/spinor-30728
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Gut Rot|Unknown|/gut_rot-30729
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Fossible|HS|/fossible-30730
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Spiny Proboscis Nematodes|Unknown|/spiny_proboscis_nematodes-30731
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Fossible Direct|Unknown|/fossible_direct-443877
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Pressure Cooker Head|Unknown|/pressure_cooker_head-30733
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Absent Valentino|Unknown|/absent_valentino-30734
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Lying in State|Unknown|/lying_in_state-502352
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Emerald Equanimity|Unknown|/emerald_equanimity-30735
+/logbook/crags/avon_gorge_suspension_bridge_area-47|What's this B***|Unknown|/whats_this_b-429040
+/logbook/crags/avon_gorge_suspension_bridge_area-47|White Wedding Cars|Unknown|/white_wedding_cars-30736
+/logbook/crags/avon_gorge_suspension_bridge_area-47|His and Hearse|Unknown|/his_and_hearse-502353
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Rehearse|Unknown|/rehearse-502354
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Spinmeister|Unknown|/spinmeister-502355
+/logbook/crags/avon_gorge_suspension_bridge_area-47|In Search of a Fair Lady|Unknown|/in_search_of_a_fair_lady-30737
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Phantom Jockey|Unknown|/phantom_jockey-153534
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Black and Tans|Unknown|/black_and_tans-30732
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Lay in Wait|HVS|/lay_in_wait-30738
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Pennywish|Unknown|/pennywish-30739
+/logbook/crags/avon_gorge_suspension_bridge_area-47|I'm an Egon|VS|/im_an_egon-30740
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Still Alive|Unknown|/slug
+/logbook/crags/avon_gorge_suspension_bridge_area-47|RU12?|Unknown|/ru12-30741
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Too Late|Unknown|/slug
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Bureauprat|Unknown|/bureauprat-30743
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Fear of Flying|Unknown|/fear_of_flying-502357
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Break Down|Unknown|/break_down-502358
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Break Down\/Fear of Flying Combo|Unknown|/break_downfear_of_flying_combo-502359
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Gangway|S|/the_gangway-30744
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Ten Commandments of Man According to Prince Buster|Unknown|/the_ten_commandments_of_man_according_to_prince_buster-502360
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Earthquake in Orange Street|Unknown|/earthquake_in_orange_street-502361
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Rebel with Applause|Unknown|/rebel_with_applause-502362
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Not all who wander are lost|HVS|/not_all_who_wander_are_lost-701795
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Indictment Day|Unknown|/indictment_day-683759
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Gangway sport route coming through!|Unknown|/gangway_sport_route_coming_through-683760
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Peter Hughs |Unknown|/peter_hughs-688978
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Passage to Nowhere|Unknown|/passage_to_nowhere-690233
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Walk the Gangplank|Unknown|/walk_the_gangplank-682977
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Work|Unknown|/slug
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Brain Not Brawn|Unknown|/brain_not_brawn-30745
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Better than Working|Unknown|/better_than_working-30746
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Behind Bars|Unknown|/behind_bars-30747
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Exercise Early Knight|Unknown|/exercise_early_knight-261152
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Giant|E2|/giant-446487
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Giant's Cave Buttress|VS|/slug
+/logbook/crags/avon_gorge_suspension_bridge_area-47|At Your Own Risk|HS|/at_your_own_risk-592119
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Dug Out|VS|/the_dug_out-30999
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Bring on the Dancing Girls|Unknown|/bring_on_the_dancing_girls-31000
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Incisor|HVS|/incisor-31001
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Enormous Dwarf|HVS|/the_enormous_dwarf-31002
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Pocketed Wall|VS|/pocketed_wall-31003
+/logbook/crags/avon_gorge_suspension_bridge_area-47|In Through the Out Door|VS|/in_through_the_out_door-31004
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Carouselambra|Unknown|/carouselambra-31005
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Cave Left|HS|/cave_left-31006
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Dream Sequence|Unknown|/dream_sequence-31007
+/logbook/crags/avon_gorge_suspension_bridge_area-47|A Dream of Brown Trousers|E2|/a_dream_of_brown_trousers-31008
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Costa Brava|Unknown|/costa_brava-31009
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Ar\u00eate de la D\u00e9g\u00e9neration|Unknown|/arete_de_la_degeneration-31010
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Daz|Unknown|/daz-31011
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Mynewt|Unknown|/mynewt-118679
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Passchendaele|Unknown|/passchendaele-31012
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Expanding Snake|Unknown|/the_expanding_snake-31013
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Next Big Thing|Unknown|/the_next_big_thing-715461
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Are you not Entertained?|Unknown|/are_you_not_entertained-659904
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Colosseum|Unknown|/the_colosseum-659903
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Bolted Horse|Unknown|/bolted_horse-715462
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Fake Life-stagram|Unknown|/fake_life-stagram-715463
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Two Ton of Fun|Unknown|/two_ton_of_fun-31014
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Boring Lives of Ordinary People|Unknown|/the_boring_lives_of_ordinary_people-715464
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Stitch Me Up Doc!|HVS|/stitch_me_up_doc-31015
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Giant's Jewel Box|HVS|/giants_jewel_box-31016
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Terminus Route|Unknown|/the_terminus_route-715465
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Terminus Plus|Unknown|/terminus_plus-715466
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Nardleflue Wall|VS|/nardleflue_wall-31017
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Yaw Kuzzi|Unknown|/yaw_kuzzi-31018
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Back in the BRI|HVS|/back_in_the_bri-31019
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Variations on a Theme of Mustard|E2|/variations_on_a_theme_of_mustard-502364
+/logbook/crags/avon_gorge_suspension_bridge_area-47|I Wanna Be Your Dawg...(Woof|Unknown|/slug
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Dumbs the Curvish|HVS|/dumbs_the_curvish-502365
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Blushing Zebra|VD|/blushing_zebra-31021
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Carlos JG|HVS|/carlos_jg-66752
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Zaani Tiani|Unknown|/zaani_tiani-502366
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Builders of the New Age|Unknown|/builders_of_the_new_age-66753
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Rejected Capstone|Unknown|/the_rejected_capstone-117736
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Strappados|Unknown|/strappados-117737
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Hideaway|E2|/hideaway-117738
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Jos\u00e9 Dansack|HVS|/jose_dansack-117739
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Hot Dust Connection|Unknown|/hot_dust_connection-502367
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Hot Dust|E2|/hot_dust-449015
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Drypass|HS|/drypass-428101
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Drain|VS|/the_drain-117740
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Green-un|S|/green-un-117741
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Purple Haze|HVS|/purple_haze-117742
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Rocket Ar\u00eate|Unknown|/rocket_arete-449016
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Silk Purse|Unknown|/silk_purse-449017
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Don Quixote|Unknown|/don_quixote-117743
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Red Line Left-hand Start|E2|/red_line_left-hand_start-502369
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Red Line Direct Start|Unknown|/red_line_direct_start-502368
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Red Line|Unknown|/red_line-449018
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Local Dementia|Unknown|/local_dementia-502370
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Slipped In|Unknown|/slipped_in-502371
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Adventure before Dementia|Unknown|/adventure_before_dementia-502372
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Snobbler|Unknown|/the_snobbler-57385
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Roberts' Route|Unknown|/roberts_route-57384
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Back for Four|Unknown|/back_for_four-502373
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Chateau Fitzwarren|Unknown|/chateau_fitzwarren-57383
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Suspension Bridge Ar\u00eate|HVS|/suspension_bridge_arete-29909
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Suspense|HVS|/suspense-29913
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Baby Duck|Unknown|/slug
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Beginnings|E2|/slug
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Limbo|Unknown|/limbo-29921
+/logbook/crags/avon_gorge_suspension_bridge_area-47|What's It Called?|Unknown|/whats_it_called-29925
+/logbook/crags/avon_gorge_suspension_bridge_area-47|GT Special|Unknown|/gt_special-29927
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Nemo Me Impune Lacessit|Unknown|/nemo_me_impune_lacessit-29928
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Earl of Perth|Unknown|/slug
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Earl of Perth\/Oblivion Hybrid|E2|/earl_of_perthoblivion_hybrid-49567
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Oblivion|Unknown|/oblivion-29930
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Howhard|Unknown|/howhard-29931
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Back in the Clan|E2|/back_in_the_clan-502374
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Hell Gates|HVS|/hell_gates-29932
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Hell Gates Original Start|HVS|/hell_gates_original_start-502375
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Mary Anne Peters|E2|/mary_anne_peters-45721
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Another Roadside Attraction|E2|/another_roadside_attraction-29933
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Hieronymous|HVS|/hieronymous-29934
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Navigator|Unknown|/navigator-66761
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Beneath|Unknown|/beneath-737658
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Dull Day|Unknown|/dull_day-66762
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Wormlands|VS|/wormlands-66763
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Caulker|Unknown|/the_caulker-531294
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Limbic Dystrophy|HVS|/limbic_dystrophy-162861
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Rock On Ruby|HVS|/rock_on_ruby-443811
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Suprising Conclusion|S|/suprising_conclusion-162862
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Brambles Just Want to Penetrate Your Corpse|Unknown|/brambles_just_want_to_penetrate_your_corpse-669506
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Return of the Fencing Master|HVS|/the_return_of_the_fencing_master-353319
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Rich-list Mansions for Desperate Migrants|E2|/rich-list_mansions_for_desperate_migrants-502376
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Industrious Immigrant|VS|/the_industrious_immigrant-373868
+/logbook/crags/avon_gorge_suspension_bridge_area-47|The Outlook is Rosy|VD|/the_outlook_is_rosy-162860
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Rock and No Veg|HVS|/rock_and_no_veg-66764
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Lonely Are the Brave|Unknown|/lonely_are_the_brave-66765
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Isambard|VS|/isambard-66766
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Expect Carnage|Unknown|/expect_carnage-66767
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Three Paranoid Couriers on the Dole|Unknown|/three_paranoid_couriers_on_the_dole-66768
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Clan Union|Unknown|/clan_union-30319
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Devil Gate Drive|HVS|/devil_gate_drive-66769
+/logbook/crags/avon_gorge_suspension_bridge_area-47|Trade Union|Unknown|/trade_union-698529
+/logbook/crags/blaise_castle_gorge-45|Free Climber And The Wilderness Experience|HS|/free_climber_and_the_wilderness_experience-572764
+/logbook/crags/blaise_castle_gorge-45|The Face|Unknown|/the_face-572765
+/logbook/crags/blaise_castle_gorge-45|Small Ramp|Unknown|/small_ramp-572766
+/logbook/crags/blaise_castle_gorge-45|Potters Groove|Unknown|/potters_groove-572767
+/logbook/crags/blaise_castle_gorge-45|Little Rib|Unknown|/little_rib-578144
+/logbook/crags/blaise_castle_gorge-45|Little Corner|Unknown|/little_corner-572769
+/logbook/crags/blaise_castle_gorge-45|Nazi Haircut|VS|/nazi_haircut-275628
+/logbook/crags/blaise_castle_gorge-45|Brighten Up|Unknown|/brighten_up-30555
+/logbook/crags/blaise_castle_gorge-45|Dumbing Down|E2|/dumbing_down-30556
+/logbook/crags/blaise_castle_gorge-45|So So|Unknown|/so_so-30557
+/logbook/crags/blaise_castle_gorge-45|Psocid|Unknown|/psocid-30558
+/logbook/crags/blaise_castle_gorge-45|The Albino Flea|VS|/the_albino_flea-30559
+/logbook/crags/blaise_castle_gorge-45|Sheila|HS|/sheila-30560
+/logbook/crags/blaise_castle_gorge-45|Albert Spanswick|HVS|/albert_spanswick-30561
+/logbook/crags/blaise_castle_gorge-45|Cupid's Scoop|VS|/cupids_scoop-30562
+/logbook/crags/blaise_castle_gorge-45|Gulliver|HVS|/gulliver-30563
+/logbook/crags/blaise_castle_gorge-45|Numpty's Wall|Unknown|/numptys_wall-274432
+/logbook/crags/blaise_castle_gorge-45|Goram's Chimney|VD|/gorams_chimney-30564
+/logbook/crags/blaise_castle_gorge-45|Goram's Crack|HVS|/gorams_crack-30565
+/logbook/crags/blaise_castle_gorge-45|The Conformist|E6|/the_conformist-30566
+/logbook/crags/blaise_castle_gorge-45|A38|E6|/a38-30567
+/logbook/crags/blaise_castle_gorge-45|Efflux Velocity|Unknown|/efflux_velocity-30568
+/logbook/crags/blaise_castle_gorge-45|The Flue|HVS|/the_flue-30569
+/logbook/crags/blaise_castle_gorge-45|The Chinese Hat|HVS|/the_chinese_hat-30570
+/logbook/crags/blaise_castle_gorge-45|The Moronic Leaf-Blower's Lullaby|Unknown|/the_moronic_leaf-blowers_lullaby-578129
+/logbook/crags/blaise_castle_gorge-45|The Flue & The Chinese Hat|HVS|/the_flue+the_chinese_hat-733129
+/logbook/crags/blaise_castle_gorge-45|Post Purchase Dissonance|E2|/post_purchase_dissonance-572760
+/logbook/crags/blaise_castle_gorge-45|Mother's Delight|E2|/mothers_delight-329210
+/logbook/crags/blaise_castle_gorge-45|Let's Release those Big-value Balls|HVS|/lets_release_those_big-value_balls-328970
+/logbook/crags/blaise_castle_gorge-45|In It to Win It|VS|/in_it_to_win_it-328971
+/logbook/crags/blaise_castle_gorge-45|World At War|Unknown|/world_at_war-30571
+/logbook/crags/blaise_castle_gorge-45|War on Words|Unknown|/war_on_words-30572
+/logbook/crags/blaise_castle_gorge-45|The Dynamism of a Dog on a Leash|Unknown|/the_dynamism_of_a_dog_on_a_leash-30573
+/logbook/crags/blaise_castle_gorge-45|No Man's Land|Unknown|/no_mans_land-653681
+/logbook/crags/blaise_castle_gorge-45|Wave No White Flag|Unknown|/wave_no_white_flag-30574
+/logbook/crags/blaise_castle_gorge-45|Remembrance|Unknown|/remembrance-30575
+/logbook/crags/blaise_castle_gorge-45|Burnt Offerings|Unknown|/burnt_offerings-30576
+/logbook/crags/blaise_castle_gorge-45|Terrorist|Unknown|/terrorist-30577
+/logbook/crags/blaise_castle_gorge-45|U N Resolution|Unknown|/u_n_resolution-30578
+/logbook/crags/blaise_castle_gorge-45|My Uncle Oswald|Unknown|/my_uncle_oswald-320304
+/logbook/crags/blaise_castle_gorge-45|All the Trymmings|E2|/all_the_trymmings-318989
+/logbook/crags/blaise_castle_gorge-45|Spornosexual|Unknown|/spornosexual-327118
+/logbook/crags/blaise_castle_gorge-45|Sod The Law|D|/sod_the_law-572757
+/logbook/crags/blaise_castle_gorge-45|Supersod's Law|HVS|/supersods_law-30579
+/logbook/crags/blaise_castle_gorge-45|Thrown into Darkness|HVS|/thrown_into_darkness-30580
+/logbook/crags/blaise_castle_gorge-45|A Dark Song|HVS|/a_dark_song-572758
+/logbook/crags/blaise_castle_gorge-45|Rock Folly|HS|/rock_folly-572759
+/logbook/crags/blaise_castle_gorge-45|Castle on a hill|VD|/castle_on_a_hill-576076
+/logbook/crags/blaise_castle_gorge-45|Rubble Surprise|VS|/rubble_surprise-30581
+/logbook/crags/blaise_castle_gorge-45|With Eyebrows|HVS|/with_eyebrows-30583
+/logbook/crags/blaise_castle_gorge-45|The Swingers|Unknown|/the_swingers-578118
+/logbook/crags/blaise_castle_gorge-45|Blott on the Landscape|Unknown|/blott_on_the_landscape-30582
+/logbook/crags/blaise_castle_gorge-45|Love at On-sight|Unknown|/love_at_on-sight-30584
+/logbook/crags/blaise_castle_gorge-45|Shaft|Unknown|/shaft-30585
+/logbook/crags/blaise_castle_gorge-45|Jolly Rogerer|Unknown|/jolly_rogerer-30586
+/logbook/crags/blaise_castle_gorge-45|Body Talk|E2|/body_talk-30587
+/logbook/crags/blaise_castle_gorge-45|The Girlfriend Experience|HVS|/the_girlfriend_experience-578119
+/logbook/crags/blaise_castle_gorge-45|Body Warp|E2|/body_warp-578120
+/logbook/crags/blaise_castle_gorge-45|Mind Warp|Unknown|/mind_warp-30588
+/logbook/crags/blaise_castle_gorge-45|Longbow|HVS|/longbow-30589
+/logbook/crags/blaise_castle_gorge-45|Strongbow|Unknown|/strongbow-30590
+/logbook/crags/blaise_castle_gorge-45|Legover|Unknown|/legover-30591
+/logbook/crags/blaise_castle_gorge-45|Lovers' Spliff|E6|/lovers_spliff-30592
+/logbook/crags/blaise_castle_gorge-45|Incest|Unknown|/incest-30593
+/logbook/crags/blaise_castle_gorge-45|Lover's Groove|Unknown|/lovers_groove-30594
+/logbook/crags/blaise_castle_gorge-45|Foreplay|Unknown|/foreplay-30595
+/logbook/crags/blaise_castle_gorge-45|Lover's Tiff|VS|/lovers_tiff-523523
+/logbook/crags/blaise_castle_gorge-45|Blow Your Own Crumpet|HVS|/blow_your_own_crumpet-30596
+/logbook/crags/blaise_castle_gorge-45|Blue Skies|Unknown|/blue_skies-30597
+/logbook/crags/blaise_castle_gorge-45|Smiling at Me|VS|/smiling_at_me-30598
+/logbook/crags/blaise_castle_gorge-45|Top Drop|HVS|/top_drop-30606
+/logbook/crags/blaise_castle_gorge-45|The Stripper|VS|/the_stripper-578121
+/logbook/crags/blaise_castle_gorge-45|Polishing a Turd|S|/polishing_a_turd-578122
+/logbook/crags/blaise_castle_gorge-45|Rule of Lore|E2|/rule_of_lore-30600
+/logbook/crags/blaise_castle_gorge-45|Irish Bank Manager|Unknown|/irish_bank_manager-30601
+/logbook/crags/blaise_castle_gorge-45|A No Sex|Unknown|/a_no_sex-30602
+/logbook/crags/blaise_castle_gorge-45|October Storm|Unknown|/october_storm-30603
+/logbook/crags/blaise_castle_gorge-45|Gimpel the Fool|HVS|/gimpel_the_fool-30604
+/logbook/crags/blaise_castle_gorge-45|The Rock Whisperer|HS|/the_rock_whisperer-564760
+/logbook/crags/blaise_castle_gorge-45|No Idea|HVS|/no_idea-30605
+/logbook/crags/blaise_castle_gorge-45|Stan Ogden's Beer Gut|VS|/stan_ogdens_beer_gut-30607
+/logbook/crags/blaise_castle_gorge-45|The Boyfriend|HS|/the_boyfriend-30608
+/logbook/crags/blaise_castle_gorge-45|The Escort|VS|/the_escort-578123
+/logbook/crags/blaise_castle_gorge-45|Shite|VD|/shite-30599
+/logbook/crags/blaise_castle_gorge-45|Crocker's Pockets|Unknown|/crockers_pockets-578124
+/logbook/crags/blaise_castle_gorge-45|Shambolic Sunset|S|/shambolic_sunset-578130
+/logbook/crags/blaise_castle_gorge-45|Repton's Arete|VS|/reptons_arete-578131
+/logbook/crags/blaise_castle_gorge-45|Fibber's Rib|HS|/fibbers_rib-578132
+/logbook/crags/blaise_castle_gorge-45|Wendy|Unknown|/wendy-30609
+/logbook/crags/blaise_castle_gorge-45|Broke|VS|/broke-258447
+/logbook/crags/blaise_castle_gorge-45|RIP|E2|/rip-30610
+/logbook/crags/blaise_castle_gorge-45|Sacrificing Parents|Unknown|/sacrificing_parents-30611
+/logbook/crags/blaise_castle_gorge-45|Perky Python|VS|/perky_python-311299
+/logbook/crags/blaise_castle_gorge-45|Truant|HVS|/truant-30612
+/logbook/crags/blaise_castle_gorge-45|Acrobatic Anaconda|HVS|/acrobatic_anaconda-30613
+/logbook/crags/blaise_castle_gorge-45|Cathedral Hygiene|S|/cathedral_hygiene-578133
+/logbook/crags/blaise_castle_gorge-45|Bristols in Bloom|HS|/bristols_in_bloom-258453
+/logbook/crags/blaise_castle_gorge-45|Ding Dong The Witch Is Dead|VS|/ding_dong_the_witch_is_dead-258452
+/logbook/crags/blaise_castle_gorge-45|The White Worm|S|/the_white_worm-311300
+/logbook/crags/blaise_castle_gorge-45|Spikey|VD|/spikey-578134
+/logbook/crags/blaise_castle_gorge-45|Scorpio Africanus|HS|/scorpio_africanus-30614
+/logbook/crags/blaise_castle_gorge-45|Blackthorn Blossom|HS|/blackthorn_blossom-221090
+/logbook/crags/blaise_castle_gorge-45|An Inkling|S|/an_inkling-578135
+/logbook/crags/blaise_castle_gorge-45|Percy Thrower|VS|/percy_thrower-30615
+/logbook/crags/blaise_castle_gorge-45|Mummy's Boy|VS|/mummys_boy-30616
+/logbook/crags/blaise_castle_gorge-45|Leon|Unknown|/slug
+/logbook/crags/blaise_castle_gorge-45|Leon|Unknown|/slug
+/logbook/crags/blaise_castle_gorge-45|Clothes for Heroes|VS|/clothes_for_heroes-30618
+/logbook/crags/blaise_castle_gorge-45|Frank Frenzy|HVS|/frank_frenzy-220675
+/logbook/crags/blaise_castle_gorge-45|Indirect Route|VS|/indirect_route-220572
+/logbook/crags/blaise_castle_gorge-45|Indirect Route Direct|Unknown|/indirect_route_direct-220952
+/logbook/crags/blaise_castle_gorge-45|Elephant's Ear|VS|/elephants_ear-220953
+/logbook/crags/blaise_castle_gorge-45|Elephant's Eye|VS|/elephants_eye-30619
+/logbook/crags/blaise_castle_gorge-45|Gestapo|HVS|/gestapo-220708
+/logbook/crags/blaise_castle_gorge-45|Ve Haf  Veys of Making you Talk|E2|/ve_haf__veys_of_making_you_talk-30620
+/logbook/crags/blaise_castle_gorge-45|KGB|Unknown|/kgb-30621
+/logbook/crags/blaise_castle_gorge-45|Securicor|VS|/securicor-30622
+/logbook/crags/blaise_castle_gorge-45|Flake Crack|S|/flake_crack-30623
+/logbook/crags/blaise_castle_gorge-45|Flake Crack (left hand finish)|VS|/flake_crack_left_hand_finish-575959
+/logbook/crags/blaise_castle_gorge-45|Two Hoots|HVS|/two_hoots-328972
+/logbook/crags/blaise_castle_gorge-45|Three 'F'in' Louts|Unknown|/three_fin_louts-30624
+/logbook/crags/blaise_castle_gorge-45|Valley of Noise|Unknown|/valley_of_noise-30625
+/logbook/crags/blaise_castle_gorge-45|Elephant's Traverse|Unknown|/elephants_traverse-244347
+/logbook/crags/blaise_castle_gorge-45|Robust Smart Solution|HS|/robust_smart_solution-718880
+/logbook/crags/blaise_castle_gorge-45|No Quibble|VS|/no_quibble-718881
+/logbook/crags/blaise_castle_gorge-45|St Jude Cometh|S|/st_jude_cometh-284650
+/logbook/crags/blaise_castle_gorge-45|Barking Mad|HVS|/barking_mad-30626
+/logbook/crags/blaise_castle_gorge-45|When I am Laid in Earth|HS|/when_i_am_laid_in_earth-578137
+/logbook/crags/blaise_castle_gorge-45|Writing on the Wall|E2|/writing_on_the_wall-30627
+/logbook/crags/blaise_castle_gorge-45|Screaming Dog-owners' Doom|Unknown|/screaming_dog-owners_doom-30628
+/logbook/crags/blaise_castle_gorge-45|Vivoque Sedilia Saxo|Unknown|/vivoque_sedilia_saxo-30629
+/logbook/crags/blaise_castle_gorge-45|Nympharum Domus|Unknown|/nympharum_domus-30630
+/logbook/crags/blaise_castle_gorge-45|Write Off|E6|/write_off-30631
+/logbook/crags/blaise_castle_gorge-45|The Greengrocer|E2|/the_greengrocer-283112
+/logbook/crags/blaise_castle_gorge-45|Vergili|HS|/vergili-578138
+/logbook/crags/blaise_castle_gorge-45|Nymph O Maniac|Unknown|/nymph_o_maniac-578139
+/logbook/crags/blaise_castle_gorge-45|The Nymphs' Ridge|HS|/the_nymphs_ridge-578140
+/logbook/crags/blaise_castle_gorge-45|Conquerable|VS|/conquerable-568728
+/logbook/crags/blaise_castle_gorge-45|Botomless|S|/botomless-568729
+/logbook/crags/blaise_castle_gorge-45|In the Moment|VD|/in_the_moment-568730
+/logbook/crags/blaise_castle_gorge-45|In The Moment (direct)|Unknown|/in_the_moment_direct-568747
+/logbook/crags/blaise_castle_gorge-45|Rrespectful Gymnast|HVS|/rrespectful_gymnast-568732
+/logbook/crags/blaise_castle_gorge-45|Rather Distracted|HS|/rather_distracted-568733
+/logbook/crags/blaise_castle_gorge-45|Wall to the Right|VD|/wall_to_the_right-568737
+/logbook/crags/blaise_castle_gorge-45|The Yellow Thread|HS|/the_yellow_thread-568740
+/logbook/crags/blaise_castle_gorge-45|Woodpile Wall|Unknown|/woodpile_wall-568741
+/logbook/crags/blaise_castle_gorge-45|Three Wise Men|Unknown|/three_wise_men-621956
+/logbook/crags/blaise_castle_gorge-45|Seek and Ye Shall FInd|Unknown|/seek_and_ye_shall_find-568742
+/logbook/crags/blaise_castle_gorge-45|Good Girl|HVS|/good_girl-568743
+/logbook/crags/blaise_castle_gorge-45|God Only Knows|VS|/god_only_knows-568744
+/logbook/crags/blaise_castle_gorge-45|Scrappy Groove|VD|/scrappy_groove-568746
+/logbook/crags/blaise_castle_gorge-45|Winterschlaf|Unknown|/winterschlaf-244770
+/logbook/crags/blaise_castle_gorge-45|Blue Dreams|Unknown|/blue_dreams-257603
+/logbook/crags/blaise_castle_gorge-45|Too Many Dogs|HVS|/too_many_dogs-308265
+/logbook/crags/blaise_castle_gorge-45|Johnson's Baby Soap|Unknown|/johnsons_baby_soap-575369
+/logbook/crags/blaise_castle_gorge-45|Slapdash traverse (L-R)|Unknown|/slapdash_traverse_l-r-577936
+/logbook/crags/blaise_castle_gorge-45|Slapdash traverse (R-L)|Unknown|/slapdash_traverse_r-l-577937
+/logbook/crags/blaise_castle_gorge-45|Don't bother washing|Unknown|/dont_bother_washing-577938
+/logbook/crags/blaise_castle_gorge-45|Life Boy|Unknown|/life_boy-575370
+/logbook/crags/blaise_castle_gorge-45|Soap Sud Slab|Unknown|/soap_sud_slab-578116
+/logbook/crags/blaise_castle_gorge-45|Ship Shaped|Unknown|/ship_shaped-578117
+/logbook/crags/blaise_castle_gorge-45|HMS Pylon|Unknown|/hms_pylon-578115
+/logbook/crags/blaise_castle_gorge-45|Bev's Bar|Unknown|/bevs_bar-575371
+/logbook/crags/blaise_castle_gorge-45|Dettol Original|Unknown|/dettol_original-575372
+/logbook/crags/blaise_castle_gorge-45|Pear's transparent|Unknown|/pears_transparent-577939
+/logbook/crags/blaise_castle_gorge-45|Dirty Doggers|Unknown|/dirty_doggers-575373
+/logbook/crags/bourton_combe-1632|End of It All|Unknown|/end_of_it_all-31502
+/logbook/crags/bourton_combe-1632|When Will It All End|Unknown|/when_will_it_all_end-31503
+/logbook/crags/bourton_combe-1632|Gone for a Bourton|Unknown|/gone_for_a_bourton-31504
+/logbook/crags/bourton_combe-1632|Soloist|Unknown|/soloist-31505
+/logbook/crags/bourton_combe-1632|Cut-throat|Unknown|/cut-throat-31506
+/logbook/crags/bourton_combe-1632|Flax Factor|Unknown|/flax_factor-31507
+/logbook/crags/bourton_combe-1632|Forty-one Today|Unknown|/forty-one_today-31508
+/logbook/crags/bourton_combe-1632|What Goes Up \/ Up Means Up|S|/what_goes_up__up_means_up-31509
+/logbook/crags/bourton_combe-1632|Bourton Line|VD|/bourton_line-530682
+/logbook/crags/bourton_combe-1632|Dew Drop|HS|/dew_drop-530685
+/logbook/crags/bourton_combe-1632|Mask Off|Unknown|/mask_off-31510
+/logbook/crags/bourton_combe-1632|Mask On|HS|/mask_on-530683
+/logbook/crags/bourton_combe-1632|Vines|S|/vines-530684
+/logbook/crags/bourton_combe-1632|The Full BC Traverse|Unknown|/the_full_bc_traverse-124033
+/logbook/crags/bourton_combe-1632|The BC Half Traverse|Unknown|/the_bc_half_traverse-152139
+/logbook/crags/bourton_combe-1632|End of it All S\/S|Unknown|/end_of_it_all_ss-152156
+/logbook/crags/bourton_combe-1632|Clockwork Orange|Unknown|/clockwork_orange-152157
+/logbook/crags/bourton_combe-1632|The AD Traverse|Unknown|/the_ad_traverse-152158
+/logbook/crags/bourton_combe-1632|Gone for a Bourton (sit start)|Unknown|/gone_for_a_bourton_sit_start-152160
+/logbook/crags/bourton_combe-1632|The AD Bourton Link|Unknown|/the_ad_bourton_link-152162
+/logbook/crags/bourton_combe-1632|The Full AD Traverse|Unknown|/the_full_ad_traverse-152343
+/logbook/crags/bourton_combe-1632|The DA Traverse|Unknown|/the_da_traverse-152344
+/logbook/crags/bourton_combe-1632|Andys wall s\/s|Unknown|/andys_wall_ss-153185
+/logbook/crags/bourton_combe-1632|A.D into Andy's Wall|Unknown|/ad_into_andys_wall-155706
+/logbook/crags/bourton_combe-1632|James's Traverse|Unknown|/jamess_traverse-160912
+/logbook/crags/bourton_combe-1632|Bourton Direct|Unknown|/bourton_direct-160913
+/logbook/crags/bourton_combe-1632|A.D.B|Unknown|/adb-163734
+/logbook/crags/bourton_combe-1632|Tom's Traverse|Unknown|/toms_traverse-163735
+/logbook/crags/bourton_combe-1632|The Daddy (Right Start)|Unknown|/the_daddy_right_start-163767
+/logbook/crags/bourton_combe-1632|The DA Reverse (real grade)|Unknown|/the_da_reverse_real_grade-170269
+/logbook/crags/bourton_combe-1632|D.A into B.C|Unknown|/da_into_bc-173138
+/logbook/crags/bourton_combe-1632|AD into DA|Unknown|/ad_into_da-178282
+/logbook/crags/bourton_combe-1632|Soloist sit start|Unknown|/soloist_sit_start-186475
+/logbook/crags/bourton_combe-1632|Big L|Unknown|/big_l-202228
+/logbook/crags/bourton_combe-1632|A.D Superlow|Unknown|/ad_superlow-202229
+/logbook/crags/bourton_combe-1632|D.A Superlow|Unknown|/da_superlow-202230
+/logbook/crags/bourton_combe-1632|Wizard Strikes Again|Unknown|/wizard_strikes_again-209774
+/logbook/crags/bourton_combe-1632|Spitfire|Unknown|/spitfire-234411
+/logbook/crags/bourton_combe-1632|Flying Fortress|Unknown|/flying_fortress-234412
+/logbook/crags/bourton_combe-1632|Bourton Bonanza|Unknown|/bourton_bonanza-234696
+/logbook/crags/bourton_combe-1632|Gone for a bourton (standing start)|Unknown|/gone_for_a_bourton_standing_start-310956
+/logbook/crags/bourton_combe-1632|Flax Factor Start|Unknown|/flax_factor_start-337512
+/logbook/crags/bourton_combe-1632|Cut Throat Sit Start|Unknown|/cut_throat_sit_start-337513
+/logbook/crags/bourton_combe-1632|A.D. low into Andy's Wall|Unknown|/ad_low_into_andys_wall-448697
+/logbook/crags/bourton_combe-1632|Taking Liberties|HVS|/taking_liberties-537897
+/logbook/crags/bourton_combe-1632|Cut throat start|Unknown|/cut_throat_start-575758
+/logbook/crags/bourton_combe-1632|End of it all start |Unknown|/end_of_it_all_start-575759
+/logbook/crags/bourton_combe-1632|Dans Edge Problem|Unknown|/dans_edge_problem-690804
+/logbook/crags/bourton_combe-1632|Gone for a BC|Unknown|/gone_for_a_bc-692843
+/logbook/crags/bourton_combe-1632|End Of The Wall|Unknown|/end_of_the_wall-717093
+/logbook/crags/bourton_combe-1632|Tom's Power Eliminate|Unknown|/toms_power_eliminate-717094
+/logbook/crags/bourton_combe-1632|Dan's Easy Dyno|Unknown|/dans_easy_dyno-717095
+/logbook/crags/bourton_combe-1632|Dan's Edge problem (variant)|Unknown|/dans_edge_problem_variant-738589
+/logbook/crags/bourton_combe-1632|Andy's Wall standing start|Unknown|/andys_wall_standing_start-738590
